@@ -163,16 +163,21 @@ const handleStartTest = async ({ industries, category, difficulty }) => {
   // 🔁 Retest: Incorrect
   // ==============================
   const handleRetestIncorrect = async () => {
-    const allQuestions = await loadQuestions({
-      selectedIndustries: [industry],
-      selectedCategory: category,
-      selectedDifficulty: difficulty,
-    });
-    const incorrectIds = userAnswers.filter((a) => !a.correct).map((a) => a.questionId);
-    const filtered = allQuestions.filter((q) => incorrectIds.includes(q.id));
-
+    const incorrectIds = userAnswers
+      .filter((a) => !a.correct)
+      .map((a) => a.questionId);
+  
+    const filtered = questions.filter((q) =>
+      incorrectIds.includes(q.id)
+    );
+  
+    if (filtered.length === 0) {
+      alert("✅ Congrats! You got everything right. No questions to retest.");
+      return;
+    }
+  
     const timeLimit = getTimeLimitInSeconds(difficulty, filtered.length);
-
+  
     setQuestions(filtered);
     setUserAnswers([]);
     setCurrentIndex(0);
@@ -182,6 +187,8 @@ const handleStartTest = async ({ industries, category, difficulty }) => {
     setIsAutoSubmitting(false);
     setCurrentSelection("");
   };
+  
+  
 
   // ==============================
   // 🔁 Retest: By Category
