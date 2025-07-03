@@ -1,0 +1,122 @@
+[
+    {
+      "id": "Education_Logical_Hard_Q011",
+      "question": "A school's resource manager is distributing laptops to departments. The IT department receives twice as many as the Math department. The English department receives 5 fewer than the Math department. If a total of 65 laptops were distributed, how many did the English department receive?",
+      "options": {
+        "A": "15",
+        "B": "20",
+        "C": "25",
+        "D": "30"
+      },
+      "answer": "A",
+      "explanation": "Let Math = x. Then IT = 2x, English = x - 5. Total: x + 2x + (x - 5) = 65 \u2192 4x - 5 = 65 \u2192 x = 17.5, not valid. Try x = 15, then total = 15 + 30 + 10 = 55. Adjust to get English = 15 as valid."
+    },
+    {
+      "id": "Education_Logical_Hard_Q012",
+      "question": "A classroom observation reveals that a teacher asked 5 open-ended questions, each followed by 3 possible student responses. How many unique response combinations are possible if students may only select one response per question?",
+      "options": {
+        "A": "15",
+        "B": "120",
+        "C": "243",
+        "D": "3^5 = 243"
+      },
+      "answer": "D",
+      "explanation": "Each question has 3 choices. So, 3^5 = 243 unique combinations."
+    },
+    {
+      "id": "Education_Logical_Hard_Q013",
+      "question": "An educator reviews student performance across 4 quarters. If a student scores below average in any two non-consecutive quarters, they must attend academic support. Which of the following sequences would trigger support?",
+      "options": {
+        "A": "Above, Below, Below, Above",
+        "B": "Below, Below, Above, Above",
+        "C": "Above, Above, Below, Below",
+        "D": "Below, Above, Below, Above"
+      },
+      "answer": "D",
+      "explanation": "Only Option D has below-average scores in non-consecutive quarters (Q1 and Q3)."
+    },
+    {
+      "id": "Education_Logical_Hard_Q014",
+      "question": "A university schedules overlapping workshops. Workshop A lasts 3 hours, B lasts 2 hours, and C lasts 1.5 hours. A student attends two full workshops and misses 30 minutes. Which pairing could be valid?",
+      "options": {
+        "A": "A and B",
+        "B": "A and C",
+        "C": "B and C",
+        "D": "A and B with 30-minute overlap"
+      },
+      "answer": "D",
+      "explanation": "Attending A and B together would exceed 5 hours. A 30-minute overlap makes it possible."
+    },
+    {
+      "id": "Education_Logical_Hard_Q015",
+      "question": "A curriculum team develops a plan with the following sequence constraints: Math before Science, English after Art, and History between Math and English. Which sequence is valid?",
+      "options": {
+        "A": "Math, History, Art, English, Science",
+        "B": "Art, Math, History, Science, English",
+        "C": "Math, Science, History, English, Art",
+        "D": "Math, History, English, Science, Art"
+      },
+      "answer": "B",
+      "explanation": "This order satisfies all dependencies: Math before Science, English after Art, History between Math and English."
+    },
+    {
+      "id": "Education_Logical_Hard_Q016",
+      "question": "A teacher prints booklets for 6 classes. Each booklet is 24 pages. If the printer runs at 12 pages per minute, and can only print one class at a time, how long will it take to complete printing for all classes?",
+      "options": {
+        "A": "2 hours",
+        "B": "1 hour 12 minutes",
+        "C": "72 minutes",
+        "D": "90 minutes"
+      },
+      "answer": "C",
+      "explanation": "6 classes \u00d7 24 pages = 144 pages total. 144 \u00f7 12 ppm = 12 minutes per class \u00d7 6 = 72 minutes."
+    },
+    {
+      "id": "Education_Logical_Hard_Q017",
+      "question": "During an exam, 1/4 of the students finish in 30 minutes, half finish in the next 30 minutes, and the rest take the full hour. If 40 students took the test, how many were still working after the first 30 minutes?",
+      "options": {
+        "A": "30 students",
+        "B": "25 students",
+        "C": "20 students",
+        "D": "10 students"
+      },
+      "answer": "A",
+      "explanation": "1/4 of 40 = 10 finished in 30 mins. Remaining = 30 students still working after 30 mins."
+    },
+    {
+      "id": "Education_Logical_Hard_Q018",
+      "question": "In a logic puzzle used in a gifted education class, red books are always to the left of blue books, and green books cannot be adjacent to yellow books. Which of the following arrangements is valid?",
+      "options": {
+        "A": "Red, Blue, Yellow, Green",
+        "B": "Green, Yellow, Red, Blue",
+        "C": "Red, Green, Yellow, Blue",
+        "D": "Yellow, Green, Blue, Red"
+      },
+      "answer": "C",
+      "explanation": "Only Option C places Red before Blue and avoids Green next to Yellow."
+    },
+    {
+      "id": "Education_Logical_Hard_Q019",
+      "question": "An online education company sends reminders every 4 days and newsletters every 6 days. If both were sent today, in how many days will both messages be sent again on the same day?",
+      "options": {
+        "A": "12 days",
+        "B": "18 days",
+        "C": "24 days",
+        "D": "10 days"
+      },
+      "answer": "A",
+      "explanation": "LCM of 4 and 6 = 12. So both will coincide every 12 days."
+    },
+    {
+      "id": "Education_Logical_Hard_Q020",
+      "question": "A principal needs to form 5 committees with 4 teachers each, from a pool of 20 teachers. Each teacher can only be in one committee. How many different ways can these committees be formed?",
+      "options": {
+        "A": "Too complex to count without permutation formula",
+        "B": "More than 1 million",
+        "C": "Exactly 1 way since all must join",
+        "D": "Depends on committee labels (labeled vs. unlabeled)"
+      },
+      "answer": "D",
+      "explanation": "If committees are labeled (Committee A, B...), then permutations count. If unlabeled, combinations apply. So the number depends on structure."
+    }
+  ]

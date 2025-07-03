@@ -1,0 +1,37 @@
+#!/bin/bash
+
+# Lists of options
+industries=("Tech" "Finance" "Healthcare" "Education")
+categories=("General" "Numerical" "Verbal" "Logical")
+difficulties=("Easy" "Medium" "Hard")
+
+# Loop through all combinations
+for industry in "${industries[@]}"; do
+  for category in "${categories[@]}"; do
+    for difficulty in "${difficulties[@]}"; do
+      folder="questionbank/$industry/$category/$difficulty"
+      mkdir -p "$folder"
+
+      # Create placeholder questions.json
+      echo "[]" > "$folder/questions.json"
+
+      # Create prompt.txt
+      cat > "$folder/prompt.txt" <<EOF
+Please generate 10 $difficulty level aptitude test questions for the $industry industry in the $category category.
+
+Requirements:
+- Format the result as a JSON array of 10 objects.
+- Each object must have:
+  - "id": a unique identifier (e.g. "${industry}_${category}_${difficulty}_Q001")
+  - "question": the question text
+  - "options": an object with keys "A", "B", "C", and "D" and their respective answer choices
+  - "answer": the correct answer key (e.g., "A")
+  - "explanation": a brief explanation of the correct answer
+- Make the questions realistic and suitable for job seekers.
+- Avoid duplicate or generic questions.
+EOF
+    done
+  done
+done
+
+echo "✅ All prompt.txt files regenerated with A–D format!"

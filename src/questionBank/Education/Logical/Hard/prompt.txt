@@ -1,0 +1,22 @@
+
+
+Please generate **20 Hard-level aptitude test questions** for the **Education industry** in the **Logical category**.
+
+**Requirements**:
+
+* Format the result as a **JSON array of 20 objects**.
+* Each object must include:
+
+  * `"id"`: a unique identifier (e.g., `"Education_Logical_Hard_Q001"`)
+  * `"question"`: a longer, realistic scenario-based or multi-step reasoning question that requires critical thinking and interpretation, especially relevant to educational or cognitive decision-making contexts
+  * `"options"`: an object with keys `"A"`, `"B"`, `"C"`, and `"D"` with **detailed, distinct, and plausible** answer choices (avoid overly simplistic phrasing)
+  * `"answer"`: the correct answer key (e.g., `"A"`)
+  * `"explanation"`: a brief but **reasoned explanation** of why the correct answer is right and why the other choices are not
+
+**Additional Guidelines**:
+
+* Make the questions **realistic for job seekers in educational settings**, such as educators, curriculum designers, academic advisors, or educational administrators.
+* Each question should test **logical reasoning, pattern recognition, sequencing, deduction, or analysis** of information relevant to educational tasks.
+* Ensure **variety in question structure** and **avoid duplicates or generic content**.
+* Ensure each question and its options are **longer and more detailed** than typical aptitude test items to test for **deep understanding** and **applied logic**.
+

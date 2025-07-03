@@ -1,0 +1,243 @@
+[
+    {
+      "id": "Education_General_Easy_Q001",
+      "question": "What is the main purpose of a lesson plan?",
+      "options": {
+        "A": "To organize teaching content and timing",
+        "B": "To record student grades",
+        "C": "To decorate the classroom",
+        "D": "To track teacher attendance"
+      },
+      "answer": "A",
+      "explanation": "Lesson plans help structure and guide classroom teaching efficiently."
+    },
+    {
+      "id": "Education_General_Easy_Q002",
+      "question": "Which of these is commonly used to present slides during class?",
+      "options": {
+        "A": "Excel",
+        "B": "PowerPoint",
+        "C": "Word",
+        "D": "Photoshop"
+      },
+      "answer": "B",
+      "explanation": "Microsoft PowerPoint is widely used for creating and presenting slides."
+    },
+    {
+      "id": "Education_General_Easy_Q003",
+      "question": "If a class starts at 8:00 AM and ends at 2:00 PM, how long is the class?",
+      "options": {
+        "A": "4 hours",
+        "B": "5 hours",
+        "C": "6 hours",
+        "D": "7 hours"
+      },
+      "answer": "D",
+      "explanation": "From 8:00 AM to 2:00 PM is a total of 6 hours."
+    },
+    {
+      "id": "Education_General_Easy_Q004",
+      "question": "Which platform is commonly used for virtual teaching?",
+      "options": {
+        "A": "Zoom",
+        "B": "Spotify",
+        "C": "Netflix",
+        "D": "TikTok"
+      },
+      "answer": "A",
+      "explanation": "Zoom is a video conferencing tool widely used for online classes."
+    },
+    {
+      "id": "Education_General_Easy_Q005",
+      "question": "Which method is best for visual learners?",
+      "options": {
+        "A": "Audio lectures",
+        "B": "Group debates",
+        "C": "Charts and diagrams",
+        "D": "Physical activities"
+      },
+      "answer": "C",
+      "explanation": "Visual learners benefit most from images, diagrams, and charts."
+    },
+    {
+      "id": "Education_General_Easy_Q006",
+      "question": "What is a common method to check students' understanding during a lesson?",
+      "options": {
+        "A": "Giving homework",
+        "B": "Asking review questions",
+        "C": "Parent meetings",
+        "D": "School assemblies"
+      },
+      "answer": "B",
+      "explanation": "Asking questions allows immediate feedback on student understanding."
+    },
+    {
+      "id": "Education_General_Easy_Q007",
+      "question": "Which of the following is a soft skill important for teachers?",
+      "options": {
+        "A": "Coding",
+        "B": "Typing speed",
+        "C": "Communication",
+        "D": "Data entry"
+      },
+      "answer": "C",
+      "explanation": "Effective communication is critical for successful teaching."
+    },
+    {
+      "id": "Education_General_Easy_Q008",
+      "question": "What tool helps teachers create multiple-choice quizzes easily?",
+      "options": {
+        "A": "Excel",
+        "B": "Kahoot!",
+        "C": "YouTube",
+        "D": "Notepad"
+      },
+      "answer": "B",
+      "explanation": "Kahoot! is a popular tool for interactive quizzes in classrooms."
+    },
+    {
+      "id": "Education_General_Easy_Q009",
+      "question": "Which learning method helps kinesthetic learners the most?",
+      "options": {
+        "A": "Lectures",
+        "B": "Experiments",
+        "C": "Reading",
+        "D": "Watching videos"
+      },
+      "answer": "B",
+      "explanation": "Kinesthetic learners learn best through hands-on experiences."
+    },
+    {
+      "id": "Education_General_Easy_Q010",
+      "question": "Which software is mainly used to write documents like essays?",
+      "options": {
+        "A": "Excel",
+        "B": "PowerPoint",
+        "C": "Photoshop",
+        "D": "Word"
+      },
+      "answer": "D",
+      "explanation": "Microsoft Word is commonly used for word processing and writing essays."
+    },
+    {
+      "id": "Education_General_Easy_Q011",
+      "question": "How many minutes are in 1 hour and 15 minutes?",
+      "options": {
+        "A": "60 minutes",
+        "B": "75 minutes",
+        "C": "90 minutes",
+        "D": "105 minutes"
+      },
+      "answer": "B",
+      "explanation": "1 hour = 60 minutes, so 60 + 15 = 75 minutes."
+    },
+    {
+      "id": "Education_General_Easy_Q012",
+      "question": "What is the best way to start a class?",
+      "options": {
+        "A": "Check attendance and review objectives",
+        "B": "Give homework",
+        "C": "Play music",
+        "D": "End class early"
+      },
+      "answer": "A",
+      "explanation": "Starting with objectives and attendance sets a focused tone."
+    },
+    {
+      "id": "Education_General_Easy_Q013",
+      "question": "Which is a good way to promote classroom participation?",
+      "options": {
+        "A": "Silent reading only",
+        "B": "Group discussions",
+        "C": "Long lectures",
+        "D": "Test-only lessons"
+      },
+      "answer": "B",
+      "explanation": "Group discussions encourage active participation from students."
+    },
+    {
+      "id": "Education_General_Easy_Q014",
+      "question": "What does 'ICT' stand for in education?",
+      "options": {
+        "A": "Information and Computer Tools",
+        "B": "Internet and Communication Training",
+        "C": "Information and Communication Technology",
+        "D": "Instructional Classroom Teaching"
+      },
+      "answer": "C",
+      "explanation": "'ICT' means Information and Communication Technology, widely used in schools."
+    },
+    {
+      "id": "Education_General_Easy_Q015",
+      "question": "If a teacher grades 5 papers per 10 minutes, how many in 1 hour?",
+      "options": {
+        "A": "15",
+        "B": "20",
+        "C": "25",
+        "D": "30"
+      },
+      "answer": "D",
+      "explanation": "60 ÷ 10 = 6 sets of 10 minutes → 6 × 5 = 30 papers."
+    },
+    {
+      "id": "Education_General_Easy_Q016",
+      "question": "Which of these is an example of formative assessment?",
+      "options": {
+        "A": "Final exam",
+        "B": "Daily quizzes",
+        "C": "Report card",
+        "D": "Graduation test"
+      },
+      "answer": "B",
+      "explanation": "Formative assessments like quizzes help monitor progress during learning."
+    },
+    {
+      "id": "Education_General_Easy_Q017",
+      "question": "What is the main benefit of using visuals in teaching?",
+      "options": {
+        "A": "Fills time",
+        "B": "Looks colorful",
+        "C": "Supports understanding",
+        "D": "Replaces the teacher"
+      },
+      "answer": "C",
+      "explanation": "Visuals help students understand and retain information better."
+    },
+    {
+      "id": "Education_General_Easy_Q018",
+      "question": "Which of these is a non-verbal communication tool in class?",
+      "options": {
+        "A": "Gestures",
+        "B": "Storytelling",
+        "C": "Reading aloud",
+        "D": "Asking questions"
+      },
+      "answer": "A",
+      "explanation": "Gestures are a form of non-verbal communication."
+    },
+    {
+      "id": "Education_General_Easy_Q019",
+      "question": "What is the first step in resolving student conflict?",
+      "options": {
+        "A": "Punish both students",
+        "B": "Call parents",
+        "C": "Understand both sides",
+        "D": "Ignore it"
+      },
+      "answer": "C",
+      "explanation": "Understanding the issue helps find a fair resolution."
+    },
+    {
+      "id": "Education_General_Easy_Q020",
+      "question": "Which of the following is used to track student grades?",
+      "options": {
+        "A": "Lesson plan",
+        "B": "Gradebook",
+        "C": "Whiteboard",
+        "D": "Seating chart"
+      },
+      "answer": "B",
+      "explanation": "A gradebook records and tracks student performance over time."
+    }
+  ]
+  

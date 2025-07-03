@@ -1,0 +1,242 @@
+[
+  {
+    "id": "Education_Numerical_Hard_Q001",
+    "question": "A school library wants to digitize 12,000 books. If one staff member can scan 60 books per hour and works 6 hours a day, how many days will 5 staff members need to complete the task?",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "answer": "C",
+    "explanation": "Each staff: 60\u00d76=360 books/day \u2192 5 staff: 1,800/day \u2192 12,000 \u00f7 1,800 = 6.67 \u2192 round up to 8 days."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q002",
+    "question": "An education platform had 120,000 users last year. This year, the number increased by 12% in Q1, 15% in Q2, decreased 5% in Q3, and increased 10% in Q4. What is the final user count?",
+    "options": {
+      "A": "144,018",
+      "B": "145,860",
+      "C": "147,420",
+      "D": "150,840"
+    },
+    "answer": "A",
+    "explanation": "120000\u00d71.12\u00d71.15\u00d70.95\u00d71.10 \u2248 144,018."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q003",
+    "question": "A private school has a 60:40 ratio of primary to secondary students. If there are 1,200 students total and 10% of secondary students shift to another school, how many students remain?",
+    "options": {
+      "A": "1,080",
+      "B": "1,140",
+      "C": "1,152",
+      "D": "1,170"
+    },
+    "answer": "C",
+    "explanation": "Primary: 720, Secondary: 480 \u2192 10% of 480 = 48 leave \u2192 1,200 - 48 = 1,152."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q004",
+    "question": "A government fund allocates RM15 million for rural schools, with 30% for infrastructure, 25% for transport, and the rest for training. If training costs rise by 20%, how much more budget is needed?",
+    "options": {
+      "A": "RM750,000",
+      "B": "RM900,000",
+      "C": "RM1,200,000",
+      "D": "RM1,350,000"
+    },
+    "answer": "B",
+    "explanation": "Training = 45% of RM15M = RM6.75M \u2192 20% increase = RM1.35M \u2192 additional = RM1.35M."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q005",
+    "question": "An exam center schedules 90-minute sessions with 30-minute gaps for sanitization. If the center operates 12 hours a day, what is the maximum number of sessions per room per day?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "answer": "C",
+    "explanation": "Each cycle = 120 mins = 2 hrs \u2192 12 \u00f7 2 = 6, but last session doesn\u2019t need sanitization \u2192 max = 7."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q006",
+    "question": "A student scored 60, 75, 80, and 85 in four tests. If the final test counts double, what is the weighted average?",
+    "options": {
+      "A": "76.5",
+      "B": "77.5",
+      "C": "78.3",
+      "D": "79.1"
+    },
+    "answer": "B",
+    "explanation": "Weighted sum = 60+75+80+2\u00d785 = 385, total weight = 5 \u2192 385\u00f75 = 77.5."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q007",
+    "question": "A scholarship offers RM2,000/month for 4 years. After 2 years, the stipend is raised by 10%. What is the total amount received?",
+    "options": {
+      "A": "RM96,800",
+      "B": "RM99,600",
+      "C": "RM100,800",
+      "D": "RM103,200"
+    },
+    "answer": "A",
+    "explanation": "First 2 years = 24\u00d72,000 = 48,000. Next 24\u00d72,200 = 52,800 \u2192 total = 100,800."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q008",
+    "question": "A tuition centre wants to increase profit by 25% next year. If current revenue is RM480,000 and costs are RM360,000, what should next year\u2019s revenue target be (same cost)?",
+    "options": {
+      "A": "RM510,000",
+      "B": "RM525,000",
+      "C": "RM540,000",
+      "D": "RM570,000"
+    },
+    "answer": "D",
+    "explanation": "Current profit = 120k \u2192 target = 120k\u00d71.25 = 150k \u2192 rev = 360k+150k = 510k."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q009",
+    "question": "A foundation gives grants to 40 schools. Each gets RM25,000. Later, 10% of schools return their grants. The remaining fund is redistributed equally. How much does each remaining school receive in total?",
+    "options": {
+      "A": "RM27,500",
+      "B": "RM28,125",
+      "C": "RM29,000",
+      "D": "RM30,000"
+    },
+    "answer": "B",
+    "explanation": "4 schools return 100k \u2192 split among 36 schools = 100k\u00f736 \u2248 2,778 + 25k = 28,125."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q010",
+    "question": "An education NGO spends RM60,000 on books, RM45,000 on meals, and RM30,000 on transport. If prices rise 10% next year, what\u2019s the new total budget?",
+    "options": {
+      "A": "RM145,000",
+      "B": "RM148,500",
+      "C": "RM151,800",
+      "D": "RM154,000"
+    },
+    "answer": "C",
+    "explanation": "Total = (60+45+30)\u00d71.1 = 135k\u00d71.1 = RM148,500."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q011",
+    "question": "An e-learning company sold 1,200 licenses in Year 1. In Year 2, sales grew by 35%, and in Year 3, dropped by 20%. What is the total number of licenses sold over 3 years?",
+    "options": {
+      "A": "3,088",
+      "B": "3,216",
+      "C": "3,324",
+      "D": "3,456"
+    },
+    "answer": "B",
+    "explanation": "Year 2: 1,200\u00d71.35 = 1,620; Year 3: 1,620\u00d70.8 = 1,296 \u2192 Total = 1,200 + 1,620 + 1,296 = 4,116."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q012",
+    "question": "A student scored 75, 80, 65, and 90 in four subjects. If the highest and lowest scores are excluded, what is the new average?",
+    "options": {
+      "A": "72.5",
+      "B": "77.5",
+      "C": "80",
+      "D": "85"
+    },
+    "answer": "B",
+    "explanation": "Exclude 65 and 90 \u2192 Average of 75 and 80 = (75+80)/2 = 77.5."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q013",
+    "question": "A teacher prints 120 exam papers per class. For 5 classes, 20% extra papers are needed as buffer. What\u2019s the total number of papers needed?",
+    "options": {
+      "A": "700",
+      "B": "720",
+      "C": "750",
+      "D": "760"
+    },
+    "answer": "C",
+    "explanation": "5\u00d7120 = 600 \u2192 20% of 600 = 120 \u2192 Total = 720."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q014",
+    "question": "A training course has a dropout rate of 10% per module. If 1,000 students start and there are 4 modules, how many complete all modules?",
+    "options": {
+      "A": "656",
+      "B": "675",
+      "C": "700",
+      "D": "729"
+    },
+    "answer": "D",
+    "explanation": "1000\u00d70.9\u2074 \u2248 729 students."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q015",
+    "question": "An education fair expects 6,000 attendees. If 45% register on Day 1, and 30% of the rest on Day 2, how many still haven\u2019t registered?",
+    "options": {
+      "A": "1,650",
+      "B": "1,800",
+      "C": "2,100",
+      "D": "2,400"
+    },
+    "answer": "A",
+    "explanation": "Day 1: 2,700, remainder = 3,300 \u2192 Day 2: 990 \u2192 total = 3,690 \u2192 not registered = 2,310."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q016",
+    "question": "A university\u2019s annual operating budget is RM12 million. If tuition fees cover 60%, donations 25%, and the rest via government grants, how much is the grant portion?",
+    "options": {
+      "A": "RM1.5M",
+      "B": "RM1.8M",
+      "C": "RM2.1M",
+      "D": "RM2.4M"
+    },
+    "answer": "D",
+    "explanation": "60% + 25% = 85% \u2192 15% from grants \u2192 RM12M\u00d70.15 = RM1.8M."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q017",
+    "question": "A vocational training center has a 70% completion rate. If it enrolls 800 students per batch and runs 3 batches annually, how many complete training per year?",
+    "options": {
+      "A": "1,560",
+      "B": "1,680",
+      "C": "1,700",
+      "D": "1,720"
+    },
+    "answer": "B",
+    "explanation": "800\u00d70.7 = 560 per batch \u00d7 3 = 1,680."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q018",
+    "question": "A textbook costs RM45. A school gets a 12% bulk discount. If it buys 250 books, how much does it pay?",
+    "options": {
+      "A": "RM9,900",
+      "B": "RM9,750",
+      "C": "RM9,500",
+      "D": "RM9,300"
+    },
+    "answer": "D",
+    "explanation": "Discounted price = 45\u00d70.88 = 39.6 \u2192 39.6\u00d7250 = RM9,900."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q019",
+    "question": "An online course offers a 20% discount after RM500 spent. If a user enrolls in 6 modules worth RM120 each, how much discount do they receive?",
+    "options": {
+      "A": "RM24",
+      "B": "RM48",
+      "C": "RM72",
+      "D": "RM96"
+    },
+    "answer": "C",
+    "explanation": "Total = 6\u00d7120 = 720 > 500 \u2192 discount = 20% of 720 = RM144."
+  },
+  {
+    "id": "Education_Numerical_Hard_Q020",
+    "question": "A class of 40 students takes a quiz with a mean score of 65. If the top 5 students score 90 each, what is the mean of the remaining 35 students?",
+    "options": {
+      "A": "60",
+      "B": "62",
+      "C": "63",
+      "D": "64"
+    },
+    "answer": "A",
+    "explanation": "Total score = 40\u00d765 = 2,600. Top 5 = 5\u00d790 = 450 \u2192 Rest = 2,150 \u00f7 35 = 61.43 \u2192 closest = 60."
+  }
+]

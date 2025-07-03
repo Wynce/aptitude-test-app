@@ -1,0 +1,243 @@
+[
+    {
+      "id": "Education_Numerical_Easy_Q001",
+      "question": "A teacher earns RM3,200 per month. What is her total income over 4 months?",
+      "options": {
+        "A": "RM12,000",
+        "B": "RM12,800",
+        "C": "RM13,200",
+        "D": "RM13,800"
+      },
+      "answer": "B",
+      "explanation": "RM3,200 × 4 = RM12,800"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q002",
+      "question": "There are 25 students in a class. If each student pays RM20 for class materials, how much is collected in total?",
+      "options": {
+        "A": "RM400",
+        "B": "RM450",
+        "C": "RM500",
+        "D": "RM550"
+      },
+      "answer": "C",
+      "explanation": "25 × RM20 = RM500"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q003",
+      "question": "A school has 5 blocks. Each block has 12 classrooms. How many classrooms are there in total?",
+      "options": {
+        "A": "50",
+        "B": "55",
+        "C": "60",
+        "D": "65"
+      },
+      "answer": "C",
+      "explanation": "5 × 12 = 60"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q004",
+      "question": "An exam consists of 40 questions. If a student answers 75% correctly, how many questions did they answer correctly?",
+      "options": {
+        "A": "25",
+        "B": "28",
+        "C": "30",
+        "D": "32"
+      },
+      "answer": "D",
+      "explanation": "75% of 40 = 0.75 × 40 = 30"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q005",
+      "question": "A school printer can print 10 pages per minute. How many pages can it print in 30 minutes?",
+      "options": {
+        "A": "200",
+        "B": "250",
+        "C": "300",
+        "D": "350"
+      },
+      "answer": "C",
+      "explanation": "10 × 30 = 300"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q006",
+      "question": "If a set of 3 books costs RM90 in total, what is the average price per book?",
+      "options": {
+        "A": "RM20",
+        "B": "RM25",
+        "C": "RM30",
+        "D": "RM35"
+      },
+      "answer": "C",
+      "explanation": "RM90 ÷ 3 = RM30 per book"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q007",
+      "question": "A teacher spends RM18.50 on pens and RM27.40 on markers. What is the total amount spent?",
+      "options": {
+        "A": "RM45.50",
+        "B": "RM45.90",
+        "C": "RM46.00",
+        "D": "RM46.10"
+      },
+      "answer": "B",
+      "explanation": "RM18.50 + RM27.40 = RM45.90"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q008",
+      "question": "A school's electricity bill is RM750 in January and RM625 in February. What is the total for both months?",
+      "options": {
+        "A": "RM1,275",
+        "B": "RM1,350",
+        "C": "RM1,325",
+        "D": "RM1,375"
+      },
+      "answer": "A",
+      "explanation": "RM750 + RM625 = RM1,375"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q009",
+      "question": "A teacher grades 15 papers in an hour. How many papers can they grade in 3 hours?",
+      "options": {
+        "A": "30",
+        "B": "35",
+        "C": "40",
+        "D": "45"
+      },
+      "answer": "D",
+      "explanation": "15 × 3 = 45"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q010",
+      "question": "If a book originally priced at RM80 is discounted by 25%, what is the new price?",
+      "options": {
+        "A": "RM55",
+        "B": "RM60",
+        "C": "RM65",
+        "D": "RM70"
+      },
+      "answer": "B",
+      "explanation": "25% of RM80 = RM20, RM80 - RM20 = RM60"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q011",
+      "question": "A school buys 4 boxes of whiteboard markers. Each box has 12 markers. How many markers are there in total?",
+      "options": {
+        "A": "44",
+        "B": "46",
+        "C": "48",
+        "D": "50"
+      },
+      "answer": "C",
+      "explanation": "4 × 12 = 48"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q012",
+      "question": "Each student is given 3 pencils. If there are 40 students, how many pencils are needed?",
+      "options": {
+        "A": "100",
+        "B": "110",
+        "C": "120",
+        "D": "130"
+      },
+      "answer": "C",
+      "explanation": "3 × 40 = 120"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q013",
+      "question": "If a class trip costs RM45 per student and there are 18 students, what is the total cost?",
+      "options": {
+        "A": "RM770",
+        "B": "RM780",
+        "C": "RM800",
+        "D": "RM810"
+      },
+      "answer": "D",
+      "explanation": "RM45 × 18 = RM810"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q014",
+      "question": "A student's test score improves from 65 to 80. What is the increase in score?",
+      "options": {
+        "A": "15",
+        "B": "10",
+        "C": "20",
+        "D": "25"
+      },
+      "answer": "A",
+      "explanation": "80 - 65 = 15"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q015",
+      "question": "A school librarian arranges 6 shelves. Each shelf holds 30 books. How many books can be stored in total?",
+      "options": {
+        "A": "160",
+        "B": "170",
+        "C": "180",
+        "D": "190"
+      },
+      "answer": "C",
+      "explanation": "6 × 30 = 180"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q016",
+      "question": "A teacher drives 18 km to school and 18 km back home. How far does she travel in 5 days?",
+      "options": {
+        "A": "180 km",
+        "B": "160 km",
+        "C": "170 km",
+        "D": "190 km"
+      },
+      "answer": "A",
+      "explanation": "18 × 2 = 36 km per day; 36 × 5 = 180 km"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q017",
+      "question": "A student reads 45 pages per day. How many pages will they read in a week?",
+      "options": {
+        "A": "315",
+        "B": "320",
+        "C": "325",
+        "D": "330"
+      },
+      "answer": "A",
+      "explanation": "45 × 7 = 315"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q018",
+      "question": "A teacher buys 5 packs of stickers. Each pack has 80 stickers. How many stickers are there in total?",
+      "options": {
+        "A": "400",
+        "B": "420",
+        "C": "430",
+        "D": "440"
+      },
+      "answer": "A",
+      "explanation": "5 × 80 = 400"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q019",
+      "question": "A student spends RM2.50 on lunch each school day. How much will he spend in 20 days?",
+      "options": {
+        "A": "RM45.00",
+        "B": "RM48.00",
+        "C": "RM50.00",
+        "D": "RM52.00"
+      },
+      "answer": "C",
+      "explanation": "RM2.50 × 20 = RM50.00"
+    },
+    {
+      "id": "Education_Numerical_Easy_Q020",
+      "question": "There are 6 exams in a semester. Each exam is worth 100 marks. What is the total mark possible?",
+      "options": {
+        "A": "500",
+        "B": "550",
+        "C": "600",
+        "D": "650"
+      },
+      "answer": "C",
+      "explanation": "6 × 100 = 600"
+    }
+  ]
+  

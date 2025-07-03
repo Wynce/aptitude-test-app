@@ -1,0 +1,243 @@
+[
+    {
+      "id": "Education_General_Hard_Q001",
+      "question": "A teacher aims to implement a more student-centered learning approach in her classroom. She wants students to take greater responsibility for their learning while developing critical thinking and collaboration skills. Which of the following instructional strategies best supports this goal?",
+      "options": {
+        "A": "Providing detailed lectures followed by multiple-choice quizzes.",
+        "B": "Assigning textbook readings and asking students to summarize them.",
+        "C": "Facilitating project-based learning where students work in teams to solve real-world problems.",
+        "D": "Asking students to complete worksheets independently after each lesson."
+      },
+      "answer": "C",
+      "explanation": "Project-based learning promotes student autonomy, collaboration, and critical thinking—key features of student-centered learning."
+    },
+    {
+      "id": "Education_General_Hard_Q002",
+      "question": "During a school review, administrators found that student engagement was significantly higher in classrooms where teachers incorporated formative assessments regularly. What is the primary reason formative assessments contribute to higher engagement?",
+      "options": {
+        "A": "They provide opportunities for grading without exams.",
+        "B": "They replace the need for summative assessments.",
+        "C": "They offer immediate feedback that helps guide and motivate student learning.",
+        "D": "They are easier for teachers to prepare than traditional tests."
+      },
+      "answer": "C",
+      "explanation": "Formative assessments provide students with timely feedback, helping them understand their progress and stay motivated to improve."
+    },
+    {
+      "id": "Education_General_Hard_Q003",
+      "question": "An instructional designer is reviewing a curriculum using the backward design model. What is the correct order of steps she should follow?",
+      "options": {
+        "A": "Choose textbook → Create daily lessons → Write objectives.",
+        "B": "Plan assessments → Define goals → Design content.",
+        "C": "Identify learning outcomes → Decide acceptable evidence → Plan instruction.",
+        "D": "Implement instruction → Evaluate student performance → Revise curriculum."
+      },
+      "answer": "C",
+      "explanation": "Backward design starts with the end goals, then defines how learning will be assessed before planning the lessons."
+    },
+    {
+      "id": "Education_General_Hard_Q004",
+      "question": "A teacher wants to compare the effectiveness of two different teaching methods on student performance. What type of research design should she employ to ensure that the results are valid and reliable?",
+      "options": {
+        "A": "Case study of one student using both methods.",
+        "B": "Quasi-experimental design with multiple variables.",
+        "C": "Controlled experimental design with random assignment to groups.",
+        "D": "Observation of classroom behavior over time."
+      },
+      "answer": "C",
+      "explanation": "A controlled experimental design with randomization provides valid and reliable comparisons between interventions."
+    },
+    {
+      "id": "Education_General_Hard_Q005",
+      "question": "Which principle of Universal Design for Learning (UDL) best supports students who struggle with traditional text-heavy resources due to learning differences?",
+      "options": {
+        "A": "Provide one standard format for content delivery.",
+        "B": "Offer multiple means of representation such as audio, visuals, and interactive models.",
+        "C": "Allow students to complete tests orally only.",
+        "D": "Avoid using technology in content delivery."
+      },
+      "answer": "B",
+      "explanation": "UDL promotes flexible approaches to content, offering multiple modes of representation to support diverse learning needs."
+    },
+    {
+      "id": "Education_General_Hard_Q006",
+      "question": "A school leader is analyzing teacher performance using both qualitative and quantitative data sources. Which of the following is an example of qualitative data?",
+      "options": {
+        "A": "Student standardized test scores.",
+        "B": "Teacher attendance records.",
+        "C": "Classroom observation notes describing teaching style.",
+        "D": "Number of professional development hours completed."
+      },
+      "answer": "C",
+      "explanation": "Qualitative data includes descriptive, non-numeric information like classroom observations."
+    },
+    {
+      "id": "Education_General_Hard_Q007",
+      "question": "When reviewing longitudinal data to track student achievement over time, what is a key advantage of this approach compared to cross-sectional data?",
+      "options": {
+        "A": "It captures short-term performance changes more effectively.",
+        "B": "It requires fewer resources to implement.",
+        "C": "It provides insights into individual student growth patterns and progress.",
+        "D": "It eliminates the need for classroom-level analysis."
+      },
+      "answer": "C",
+      "explanation": "Longitudinal data tracks the same students over time, offering deeper insight into individual growth."
+    },
+    {
+      "id": "Education_General_Hard_Q008",
+      "question": "Which of the following best describes the role of action research in professional teaching practice?",
+      "options": {
+        "A": "It involves teachers publishing research in academic journals only.",
+        "B": "It focuses on collecting student grades to prove teacher effectiveness.",
+        "C": "It allows teachers to systematically examine their own classroom practices to improve instruction.",
+        "D": "It is only conducted by school administrators for teacher evaluation."
+      },
+      "answer": "C",
+      "explanation": "Action research is a reflective, data-driven method for educators to improve their teaching practices."
+    },
+    {
+      "id": "Education_General_Hard_Q009",
+      "question": "A teacher notices a consistent gap in assessment scores between two groups of students. What is the best initial step the teacher should take to address this issue?",
+      "options": {
+        "A": "Reassign students to different classes.",
+        "B": "Administer more frequent quizzes.",
+        "C": "Analyze root causes using student background data and learning needs.",
+        "D": "Give additional homework to both groups equally."
+      },
+      "answer": "C",
+      "explanation": "Understanding the root causes of achievement gaps is essential before implementing targeted interventions."
+    },
+    {
+      "id": "Education_General_Hard_Q010",
+      "question": "Which of the following is most appropriate when designing assessments that support higher-order thinking skills, according to Bloom’s Taxonomy?",
+      "options": {
+        "A": "Designing multiple-choice questions that test memory recall.",
+        "B": "Asking students to analyze a case study and propose a solution.",
+        "C": "Giving timed spelling tests.",
+        "D": "Asking students to recite definitions from the textbook."
+      },
+      "answer": "B",
+      "explanation": "Application, analysis, and synthesis tasks align with higher levels of Bloom’s Taxonomy."
+    },
+    {
+      "id": "Education_General_Hard_Q011",
+      "question": "In a flipped classroom model, how is instructional time typically restructured?",
+      "options": {
+        "A": "Students learn new content at home and apply it through activities during class.",
+        "B": "All instruction is given in class with no homework.",
+        "C": "Students complete projects at home and are lectured during class.",
+        "D": "Class time is used solely for assessment and testing."
+      },
+      "answer": "A",
+      "explanation": "Flipped classrooms prioritize active, hands-on learning in the classroom, with direct instruction moved to homework."
+    },
+    {
+      "id": "Education_General_Hard_Q012",
+      "question": "Which instructional strategy is best for promoting metacognitive development among students?",
+      "options": {
+        "A": "Assigning rote memorization tasks.",
+        "B": "Having students reflect on their learning process through journals or discussions.",
+        "C": "Using pop quizzes to check retention.",
+        "D": "Reducing teacher-student interaction."
+      },
+      "answer": "B",
+      "explanation": "Metacognition involves reflecting on one’s thinking, which can be fostered through self-reflective practices."
+    },
+    {
+      "id": "Education_General_Hard_Q013",
+      "question": "How does differentiated instruction improve learning outcomes in diverse classrooms?",
+      "options": {
+        "A": "By creating uniform assignments for all learners.",
+        "B": "By grouping only the advanced students together for special projects.",
+        "C": "By adapting content, process, and product to meet students’ varying needs and preferences.",
+        "D": "By increasing the use of standardized testing to assess all students."
+      },
+      "answer": "C",
+      "explanation": "Differentiated instruction meets individual learning needs by varying instructional elements."
+    },
+    {
+      "id": "Education_General_Hard_Q014",
+      "question": "Which statement best explains the Zone of Proximal Development (ZPD) as proposed by Vygotsky?",
+      "options": {
+        "A": "It is the range where students work best independently.",
+        "B": "It includes only what a student cannot yet learn.",
+        "C": "It describes the difference between what a learner can do without help and what they can achieve with guidance.",
+        "D": "It applies only to advanced learners in upper grades."
+      },
+      "answer": "C",
+      "explanation": "ZPD identifies tasks a learner can do with appropriate support, key to scaffolding."
+    },
+    {
+      "id": "Education_General_Hard_Q015",
+      "question": "A school is adopting a data-driven approach to curriculum planning. Which of the following actions reflects this approach?",
+      "options": {
+        "A": "Using last year’s curriculum without change.",
+        "B": "Basing lesson plans on national averages only.",
+        "C": "Regularly analyzing student performance data to inform instructional decisions.",
+        "D": "Setting teaching goals without evaluating student needs."
+      },
+      "answer": "C",
+      "explanation": "A data-driven approach relies on analyzing student outcomes to shape planning and teaching."
+    },
+    {
+      "id": "Education_General_Hard_Q016",
+      "question": "What is the main goal of implementing a formative assessment cycle in teaching?",
+      "options": {
+        "A": "To assign final grades more easily.",
+        "B": "To delay feedback until the end of term.",
+        "C": "To monitor ongoing learning and adjust instruction accordingly.",
+        "D": "To limit the use of differentiated instruction."
+      },
+      "answer": "C",
+      "explanation": "Formative assessment informs teaching while learning is still happening."
+    },
+    {
+      "id": "Education_General_Hard_Q017",
+      "question": "How does the concept of 'culturally responsive teaching' enhance educational equity?",
+      "options": {
+        "A": "By minimizing student expression of cultural identity.",
+        "B": "By focusing only on the majority culture.",
+        "C": "By validating and incorporating diverse cultural experiences into the learning process.",
+        "D": "By standardizing learning experiences across all student groups."
+      },
+      "answer": "C",
+      "explanation": "Culturally responsive teaching affirms students’ identities and promotes inclusive, relevant learning."
+    },
+    {
+      "id": "Education_General_Hard_Q018",
+      "question": "Which of the following is an effective way for schools to support professional learning communities (PLCs)?",
+      "options": {
+        "A": "Requiring isolated planning time for each teacher.",
+        "B": "Eliminating shared responsibilities among teachers.",
+        "C": "Creating structured time for collaborative reflection and planning.",
+        "D": "Discouraging cross-grade collaboration."
+      },
+      "answer": "C",
+      "explanation": "Effective PLCs depend on collaboration, shared goals, and collective responsibility."
+    },
+    {
+      "id": "Education_General_Hard_Q019",
+      "question": "A teacher is designing a rubric for a creative writing assignment. What should the rubric primarily focus on to ensure clear expectations and consistency?",
+      "options": {
+        "A": "Providing vague criteria to allow full creativity.",
+        "B": "Emphasizing formatting and font size over content.",
+        "C": "Including clear descriptors for creativity, grammar, coherence, and structure.",
+        "D": "Limiting scoring to word count and spelling."
+      },
+      "answer": "C",
+      "explanation": "Effective rubrics offer clear, measurable criteria that align with learning goals."
+    },
+    {
+      "id": "Education_General_Hard_Q020",
+      "question": "Why is anonymous grading considered a best practice in reducing bias in assessments?",
+      "options": {
+        "A": "It allows students to skip identification protocols.",
+        "B": "It creates more grading paperwork.",
+        "C": "It helps prevent unconscious biases based on names or past performance from influencing grading decisions.",
+        "D": "It ensures only multiple-choice questions are used."
+      },
+      "answer": "C",
+      "explanation": "Anonymous grading helps ensure fair evaluation by removing identifying information that may influence judgment."
+    }
+  ]
+  

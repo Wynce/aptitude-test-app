@@ -1,0 +1,242 @@
+[
+    {
+      "id": "Education_Verbal_Hard_Q001",
+      "question": "Refer to the chart showing the percentage of students who prefer various learning styles. Which inference is most supported by the data?\n\n![Learning Styles Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Learning_Styles_Chart.svg/1200px-Learning_Styles_Chart.svg.png)",
+      "options": {
+        "A": "Most students prefer auditory learning over kinesthetic learning.",
+        "B": "The majority of students prefer kinesthetic learning.",
+        "C": "Visual learning is equally preferred as auditory learning.",
+        "D": "Very few students prefer visual learning."
+      },
+      "answer": "B",
+      "explanation": "The chart shows kinesthetic learning as having the highest percentage, making it the most preferred style."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q002",
+      "question": "Look at the pie chart below representing the distribution of communication methods in a workplace. Which statement best reflects a potential communication challenge?\n\n![Communication Pie Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Pie_chart_of_workplace_communication.svg/1024px-Pie_chart_of_workplace_communication.svg.png)",
+      "options": {
+        "A": "The reliance on face-to-face meetings increases documentation efficiency.",
+        "B": "Using emails as the primary communication mode may lead to misinterpretation.",
+        "C": "Phone communication dominates and ensures clarity.",
+        "D": "Instant messaging is preferred over emails."
+      },
+      "answer": "B",
+      "explanation": "The chart shows emails dominate communication. Overreliance may result in miscommunication or lack of tone clarity."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q003",
+      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
+      "options": {
+        "A": "The manager is against any new ideas.",
+        "B": "Risk-taking is encouraged over stability.",
+        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
+        "D": "Core operations are irrelevant in decision-making."
+      },
+      "answer": "C",
+      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q004",
+      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
+      "options": {
+        "A": "The manager is against any new ideas.",
+        "B": "Risk-taking is encouraged over stability.",
+        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
+        "D": "Core operations are irrelevant in decision-making."
+      },
+      "answer": "C",
+      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q005",
+      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
+      "options": {
+        "A": "The manager is against any new ideas.",
+        "B": "Risk-taking is encouraged over stability.",
+        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
+        "D": "Core operations are irrelevant in decision-making."
+      },
+      "answer": "C",
+      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q006",
+      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
+      "options": {
+        "A": "The manager is against any new ideas.",
+        "B": "Risk-taking is encouraged over stability.",
+        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
+        "D": "Core operations are irrelevant in decision-making."
+      },
+      "answer": "C",
+      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q007",
+      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
+      "options": {
+        "A": "The manager is against any new ideas.",
+        "B": "Risk-taking is encouraged over stability.",
+        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
+        "D": "Core operations are irrelevant in decision-making."
+      },
+      "answer": "C",
+      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q008",
+      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
+      "options": {
+        "A": "The manager is against any new ideas.",
+        "B": "Risk-taking is encouraged over stability.",
+        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
+        "D": "Core operations are irrelevant in decision-making."
+      },
+      "answer": "C",
+      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q009",
+      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
+      "options": {
+        "A": "The manager is against any new ideas.",
+        "B": "Risk-taking is encouraged over stability.",
+        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
+        "D": "Core operations are irrelevant in decision-making."
+      },
+      "answer": "C",
+      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q010",
+      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
+      "options": {
+        "A": "The manager is against any new ideas.",
+        "B": "Risk-taking is encouraged over stability.",
+        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
+        "D": "Core operations are irrelevant in decision-making."
+      },
+      "answer": "C",
+      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q011",
+      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
+      "options": {
+        "A": "The manager is against any new ideas.",
+        "B": "Risk-taking is encouraged over stability.",
+        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
+        "D": "Core operations are irrelevant in decision-making."
+      },
+      "answer": "C",
+      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q012",
+      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
+      "options": {
+        "A": "The manager is against any new ideas.",
+        "B": "Risk-taking is encouraged over stability.",
+        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
+        "D": "Core operations are irrelevant in decision-making."
+      },
+      "answer": "C",
+      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q013",
+      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
+      "options": {
+        "A": "The manager is against any new ideas.",
+        "B": "Risk-taking is encouraged over stability.",
+        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
+        "D": "Core operations are irrelevant in decision-making."
+      },
+      "answer": "C",
+      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q014",
+      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
+      "options": {
+        "A": "The manager is against any new ideas.",
+        "B": "Risk-taking is encouraged over stability.",
+        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
+        "D": "Core operations are irrelevant in decision-making."
+      },
+      "answer": "C",
+      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q015",
+      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
+      "options": {
+        "A": "The manager is against any new ideas.",
+        "B": "Risk-taking is encouraged over stability.",
+        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
+        "D": "Core operations are irrelevant in decision-making."
+      },
+      "answer": "C",
+      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q016",
+      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
+      "options": {
+        "A": "The manager is against any new ideas.",
+        "B": "Risk-taking is encouraged over stability.",
+        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
+        "D": "Core operations are irrelevant in decision-making."
+      },
+      "answer": "C",
+      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q017",
+      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
+      "options": {
+        "A": "The manager is against any new ideas.",
+        "B": "Risk-taking is encouraged over stability.",
+        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
+        "D": "Core operations are irrelevant in decision-making."
+      },
+      "answer": "C",
+      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q018",
+      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
+      "options": {
+        "A": "The manager is against any new ideas.",
+        "B": "Risk-taking is encouraged over stability.",
+        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
+        "D": "Core operations are irrelevant in decision-making."
+      },
+      "answer": "C",
+      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q019",
+      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
+      "options": {
+        "A": "The manager is against any new ideas.",
+        "B": "Risk-taking is encouraged over stability.",
+        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
+        "D": "Core operations are irrelevant in decision-making."
+      },
+      "answer": "C",
+      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    },
+    {
+      "id": "Education_Verbal_Hard_Q020",
+      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
+      "options": {
+        "A": "The manager is against any new ideas.",
+        "B": "Risk-taking is encouraged over stability.",
+        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
+        "D": "Core operations are irrelevant in decision-making."
+      },
+      "answer": "C",
+      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    }
+  ]

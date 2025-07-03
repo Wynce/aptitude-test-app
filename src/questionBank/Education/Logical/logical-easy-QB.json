@@ -1,0 +1,243 @@
+[
+    {
+      "id": "Education_Logical_Easy_Q001",
+      "question": "If a classroom has 5 rows with 4 seats in each row, how many students can the classroom seat in total?",
+      "options": {
+        "A": "20",
+        "B": "9",
+        "C": "25",
+        "D": "15"
+      },
+      "answer": "A",
+      "explanation": "5 rows × 4 seats = 20 seats total."
+    },
+    {
+      "id": "Education_Logical_Easy_Q002",
+      "question": "A teacher writes four subjects on the board in this order: Math, English, Science, History. Which subject is listed third?",
+      "options": {
+        "A": "English",
+        "B": "History",
+        "C": "Science",
+        "D": "Math"
+      },
+      "answer": "C",
+      "explanation": "The third subject in the list is Science."
+    },
+    {
+      "id": "Education_Logical_Easy_Q003",
+      "question": "Which number comes next in the pattern: 2, 4, 6, 8, __?",
+      "options": {
+        "A": "10",
+        "B": "9",
+        "C": "12",
+        "D": "11"
+      },
+      "answer": "A",
+      "explanation": "The pattern increases by 2. Next number is 8 + 2 = 10."
+    },
+    {
+      "id": "Education_Logical_Easy_Q004",
+      "question": "If each student brings 2 pencils and there are 10 students, how many pencils are there in total?",
+      "options": {
+        "A": "12",
+        "B": "20",
+        "C": "22",
+        "D": "18"
+      },
+      "answer": "B",
+      "explanation": "10 students × 2 pencils = 20 pencils."
+    },
+    {
+      "id": "Education_Logical_Easy_Q005",
+      "question": "What day comes after Wednesday?",
+      "options": {
+        "A": "Tuesday",
+        "B": "Friday",
+        "C": "Thursday",
+        "D": "Monday"
+      },
+      "answer": "C",
+      "explanation": "Thursday follows Wednesday in the weekly calendar."
+    },
+    {
+      "id": "Education_Logical_Easy_Q006",
+      "question": "If 3 students form a line, how many different ways can they be arranged?",
+      "options": {
+        "A": "3",
+        "B": "6",
+        "C": "9",
+        "D": "2"
+      },
+      "answer": "B",
+      "explanation": "3! (3 factorial) = 3 × 2 × 1 = 6 arrangements."
+    },
+    {
+      "id": "Education_Logical_Easy_Q007",
+      "question": "What is the missing number in the series: 5, 10, __, 20, 25?",
+      "options": {
+        "A": "12",
+        "B": "15",
+        "C": "13",
+        "D": "18"
+      },
+      "answer": "B",
+      "explanation": "The pattern increases by 5. 10 + 5 = 15."
+    },
+    {
+      "id": "Education_Logical_Easy_Q008",
+      "question": "Which shape has three sides?",
+      "options": {
+        "A": "Circle",
+        "B": "Triangle",
+        "C": "Square",
+        "D": "Rectangle"
+      },
+      "answer": "B",
+      "explanation": "A triangle has three sides."
+    },
+    {
+      "id": "Education_Logical_Easy_Q009",
+      "question": "A student attends school Monday to Friday. How many school days are there in two weeks?",
+      "options": {
+        "A": "14",
+        "B": "10",
+        "C": "7",
+        "D": "12"
+      },
+      "answer": "B",
+      "explanation": "5 school days per week × 2 = 10 school days."
+    },
+    {
+      "id": "Education_Logical_Easy_Q010",
+      "question": "If a class starts at 9:00 AM and lasts 2 hours, what time does it end?",
+      "options": {
+        "A": "11:00 AM",
+        "B": "10:30 AM",
+        "C": "12:00 PM",
+        "D": "1:00 PM"
+      },
+      "answer": "A",
+      "explanation": "9:00 AM + 2 hours = 11:00 AM."
+    },
+    {
+      "id": "Education_Logical_Easy_Q011",
+      "question": "If a bookshelf has 4 levels and each level holds 8 books, how many books can it hold in total?",
+      "options": {
+        "A": "28",
+        "B": "30",
+        "C": "32",
+        "D": "36"
+      },
+      "answer": "C",
+      "explanation": "4 levels × 8 books = 32 books."
+    },
+    {
+      "id": "Education_Logical_Easy_Q012",
+      "question": "Which of the following is the odd one out?",
+      "options": {
+        "A": "Pen",
+        "B": "Pencil",
+        "C": "Notebook",
+        "D": "Orange"
+      },
+      "answer": "D",
+      "explanation": "Orange is a fruit; the others are stationery items."
+    },
+    {
+      "id": "Education_Logical_Easy_Q013",
+      "question": "Which number is smallest?",
+      "options": {
+        "A": "8",
+        "B": "3",
+        "C": "12",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "3 is the smallest number among the options."
+    },
+    {
+      "id": "Education_Logical_Easy_Q014",
+      "question": "What comes next in this pattern: A, B, C, D, __?",
+      "options": {
+        "A": "E",
+        "B": "F",
+        "C": "G",
+        "D": "H"
+      },
+      "answer": "A",
+      "explanation": "The next letter after D is E."
+    },
+    {
+      "id": "Education_Logical_Easy_Q015",
+      "question": "If a student studies for 3 hours each day, how many hours will they study in 5 days?",
+      "options": {
+        "A": "15",
+        "B": "12",
+        "C": "18",
+        "D": "10"
+      },
+      "answer": "A",
+      "explanation": "3 hours/day × 5 days = 15 hours."
+    },
+    {
+      "id": "Education_Logical_Easy_Q016",
+      "question": "Which of the following is a pair of opposite directions?",
+      "options": {
+        "A": "Up and Right",
+        "B": "Left and Right",
+        "C": "North and West",
+        "D": "East and North"
+      },
+      "answer": "B",
+      "explanation": "Left and Right are opposite directions."
+    },
+    {
+      "id": "Education_Logical_Easy_Q017",
+      "question": "Which item does not belong in this group: Apple, Banana, Carrot, Mango?",
+      "options": {
+        "A": "Apple",
+        "B": "Banana",
+        "C": "Carrot",
+        "D": "Mango"
+      },
+      "answer": "C",
+      "explanation": "Carrot is a vegetable; the others are fruits."
+    },
+    {
+      "id": "Education_Logical_Easy_Q018",
+      "question": "A test has 30 questions. If each student answers 3 questions per minute, how many minutes will it take to complete the test?",
+      "options": {
+        "A": "15",
+        "B": "10",
+        "C": "20",
+        "D": "30"
+      },
+      "answer": "A",
+      "explanation": "30 ÷ 3 = 10 minutes."
+    },
+    {
+      "id": "Education_Logical_Easy_Q019",
+      "question": "Which number is missing in this sequence: 1, 4, 7, __, 13?",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "12"
+      },
+      "answer": "B",
+      "explanation": "The pattern increases by 3. 7 + 3 = 10."
+    },
+    {
+      "id": "Education_Logical_Easy_Q020",
+      "question": "If a teacher gives 2 stickers to each of her 6 students, how many stickers does she give out?",
+      "options": {
+        "A": "10",
+        "B": "8",
+        "C": "12",
+        "D": "14"
+      },
+      "answer": "C",
+      "explanation": "2 stickers × 6 students = 12 stickers."
+    }
+  ]
+  

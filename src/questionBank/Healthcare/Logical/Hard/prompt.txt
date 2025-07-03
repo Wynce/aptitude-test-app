@@ -1,0 +1,12 @@
+Please generate 20 Hard level aptitude test questions for the Healthcare industry in the Logical category.
+
+Requirements:
+- Format the result as a JSON array of 20 objects.
+- Each object must have:
+  - "id": a unique identifier (e.g. "Healthcare_Logical_Hard_Q001")
+  - "question": the question text
+  - "options": an object with keys "A", "B", "C", and "D" and their respective answer choices
+  - "answer": the correct answer key (e.g., "A")
+  - "explanation": a brief explanation of the correct answer
+- Make the questions realistic and suitable for job seekers.
+- Avoid duplicate or generic questions.

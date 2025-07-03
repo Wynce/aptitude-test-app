@@ -1,0 +1,242 @@
+[
+    {
+      "id": "Education_Verbal_Easy_Q001",
+      "question": "Choose the word that is most similar in meaning to 'abundant'.",
+      "options": {
+        "A": "Rare",
+        "B": "Plentiful",
+        "C": "Small",
+        "D": "Difficult"
+      },
+      "answer": "B",
+      "explanation": "'Abundant' means existing in large quantities, similar to 'Plentiful'."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q002",
+      "question": "Select the correct form: She ___ to the office every day.",
+      "options": {
+        "A": "go",
+        "B": "going",
+        "C": "goes",
+        "D": "gone"
+      },
+      "answer": "C",
+      "explanation": "'She' is third person singular, so the verb should be 'goes'."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q003",
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "He don't like coffee.",
+        "B": "He doesn't likes coffee.",
+        "C": "He doesn't like coffee.",
+        "D": "He not like coffee."
+      },
+      "answer": "C",
+      "explanation": "The correct negative form with 'doesn't' is 'doesn't like'."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q004",
+      "question": "Identify the synonym for 'rapid'.",
+      "options": {
+        "A": "Slow",
+        "B": "Fast",
+        "C": "Lazy",
+        "D": "Quiet"
+      },
+      "answer": "B",
+      "explanation": "'Rapid' means fast or quick."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q005",
+      "question": "Fill in the blank: The manager appreciated her ___ to the project.",
+      "options": {
+        "A": "contribution",
+        "B": "distract",
+        "C": "defection",
+        "D": "departure"
+      },
+      "answer": "A",
+      "explanation": "'Contribution' means giving something helpful, which fits the context."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q006",
+      "question": "Which word is the opposite of 'optimistic'?",
+      "options": {
+        "A": "Hopeful",
+        "B": "Cheerful",
+        "C": "Pessimistic",
+        "D": "Joyful"
+      },
+      "answer": "C",
+      "explanation": "The antonym of 'optimistic' is 'pessimistic'."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q007",
+      "question": "Choose the best word to complete: He was very ___ about the job offer.",
+      "options": {
+        "A": "excited",
+        "B": "boring",
+        "C": "fear",
+        "D": "anger"
+      },
+      "answer": "A",
+      "explanation": "'Excited' is the correct adjective form that fits the sentence."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q008",
+      "question": "Which of these is a noun?",
+      "options": {
+        "A": "Run",
+        "B": "Beautiful",
+        "C": "Happiness",
+        "D": "Quickly"
+      },
+      "answer": "C",
+      "explanation": "'Happiness' is a noun. The others are verb, adjective, and adverb."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q009",
+      "question": "Which sentence is punctuated correctly?",
+      "options": {
+        "A": "I like apples, bananas and, grapes.",
+        "B": "I like apples bananas, and grapes.",
+        "C": "I like apples, bananas, and grapes.",
+        "D": "I like, apples, bananas and grapes."
+      },
+      "answer": "C",
+      "explanation": "Option C uses the correct Oxford comma format."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q010",
+      "question": "Find the correct analogy: Book is to Reading as Fork is to ___.",
+      "options": {
+        "A": "Drawing",
+        "B": "Writing",
+        "C": "Eating",
+        "D": "Cooking"
+      },
+      "answer": "C",
+      "explanation": "A book is used for reading, just as a fork is used for eating."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q011",
+      "question": "Choose the correct word: It\u2019s important to ___ your goals clearly.",
+      "options": {
+        "A": "articulate",
+        "B": "articulated",
+        "C": "articulating",
+        "D": "articulation"
+      },
+      "answer": "A",
+      "explanation": "The infinitive form 'to articulate' fits after 'important to'."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q012",
+      "question": "Identify the antonym of 'expand'.",
+      "options": {
+        "A": "Widen",
+        "B": "Broaden",
+        "C": "Contract",
+        "D": "Extend"
+      },
+      "answer": "C",
+      "explanation": "'Contract' is the opposite of 'expand'."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q013",
+      "question": "Choose the correct spelling:",
+      "options": {
+        "A": "Definately",
+        "B": "Definitely",
+        "C": "Defanitely",
+        "D": "Definately"
+      },
+      "answer": "B",
+      "explanation": "'Definitely' is the correct spelling."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q014",
+      "question": "Fill in the blank: The presentation was both informative ___ engaging.",
+      "options": {
+        "A": "or",
+        "B": "but",
+        "C": "and",
+        "D": "so"
+      },
+      "answer": "C",
+      "explanation": "'Both' pairs with 'and'."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q015",
+      "question": "Which of these is a verb?",
+      "options": {
+        "A": "Walk",
+        "B": "Chair",
+        "C": "Blue",
+        "D": "Happiness"
+      },
+      "answer": "A",
+      "explanation": "'Walk' is a verb (action word)."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q016",
+      "question": "Find the synonym for 'assist'.",
+      "options": {
+        "A": "Ignore",
+        "B": "Refuse",
+        "C": "Help",
+        "D": "Delay"
+      },
+      "answer": "C",
+      "explanation": "'Help' is the synonym for 'assist'."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q017",
+      "question": "Choose the correct word: She has a good ___ of humor.",
+      "options": {
+        "A": "scene",
+        "B": "sense",
+        "C": "since",
+        "D": "cents"
+      },
+      "answer": "B",
+      "explanation": "'Sense of humor' is the correct phrase."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q018",
+      "question": "What part of speech is 'quickly'?",
+      "options": {
+        "A": "Noun",
+        "B": "Adjective",
+        "C": "Verb",
+        "D": "Adverb"
+      },
+      "answer": "D",
+      "explanation": "'Quickly' describes how something happens \u2013 it is an adverb."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q019",
+      "question": "Which sentence uses the correct tense?",
+      "options": {
+        "A": "He go to school yesterday.",
+        "B": "He gone to school yesterday.",
+        "C": "He went to school yesterday.",
+        "D": "He going to school yesterday."
+      },
+      "answer": "C",
+      "explanation": "'Went' is the correct past tense of 'go'."
+    },
+    {
+      "id": "Education_Verbal_Easy_Q020",
+      "question": "Identify the error: She can sings very well.",
+      "options": {
+        "A": "'She'",
+        "B": "'can'",
+        "C": "'sings'",
+        "D": "No error"
+      },
+      "answer": "C",
+      "explanation": "With 'can', the verb should be in base form \u2014 'sing', not 'sings'."
+    }
+  ]

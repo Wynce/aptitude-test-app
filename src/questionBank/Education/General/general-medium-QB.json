@@ -1,0 +1,243 @@
+[
+    {
+      "id": "Education_General_Medium_Q001",
+      "question": "A teacher plans a 45-minute class with 5 activities of equal length. How long should each activity be?",
+      "options": {
+        "A": "5 minutes",
+        "B": "7 minutes",
+        "C": "9 minutes",
+        "D": "15 minutes"
+      },
+      "answer": "C",
+      "explanation": "45 minutes ÷ 5 activities = 9 minutes per activity."
+    },
+    {
+      "id": "Education_General_Medium_Q002",
+      "question": "Which strategy is most effective for differentiated instruction?",
+      "options": {
+        "A": "Same materials for all students",
+        "B": "Grouping students by seating arrangement",
+        "C": "Providing different resources based on ability",
+        "D": "Focusing only on fast learners"
+      },
+      "answer": "C",
+      "explanation": "Differentiated instruction adapts materials to suit student needs."
+    },
+    {
+      "id": "Education_General_Medium_Q003",
+      "question": "Which of the following tools allows students to collaboratively edit documents in real-time?",
+      "options": {
+        "A": "Google Docs",
+        "B": "Microsoft Paint",
+        "C": "VLC Media Player",
+        "D": "Excel Viewer"
+      },
+      "answer": "A",
+      "explanation": "Google Docs supports real-time collaborative editing."
+    },
+    {
+      "id": "Education_General_Medium_Q004",
+      "question": "What is the primary benefit of peer learning?",
+      "options": {
+        "A": "More homework",
+        "B": "Better discipline",
+        "C": "Students explain concepts in relatable ways",
+        "D": "Fewer teacher responsibilities"
+      },
+      "answer": "C",
+      "explanation": "Peers often explain concepts in a way others can easily understand."
+    },
+    {
+      "id": "Education_General_Medium_Q005",
+      "question": "A student scores 65, 70, and 85 on three tests. What is their average score?",
+      "options": {
+        "A": "70",
+        "B": "72",
+        "C": "74",
+        "D": "75"
+      },
+      "answer": "B",
+      "explanation": "(65 + 70 + 85) ÷ 3 = 220 ÷ 3 = 72."
+    },
+    {
+      "id": "Education_General_Medium_Q006",
+      "question": "What does formative assessment aim to do?",
+      "options": {
+        "A": "Rank students",
+        "B": "Assign final grades",
+        "C": "Monitor learning progress",
+        "D": "Test memory only"
+      },
+      "answer": "C",
+      "explanation": "Formative assessment helps monitor learning and guide teaching."
+    },
+    {
+      "id": "Education_General_Medium_Q007",
+      "question": "Which of the following most supports inclusive education?",
+      "options": {
+        "A": "Teaching to the average level",
+        "B": "Adapting instruction for diverse needs",
+        "C": "Using only text-based materials",
+        "D": "Assigning one task for all"
+      },
+      "answer": "B",
+      "explanation": "Inclusive education adapts content and teaching to include all learners."
+    },
+    {
+      "id": "Education_General_Medium_Q008",
+      "question": "Which metric is most helpful to track long-term student progress?",
+      "options": {
+        "A": "Single test result",
+        "B": "Attendance record",
+        "C": "Portfolio of work",
+        "D": "Lunch menu"
+      },
+      "answer": "C",
+      "explanation": "A portfolio captures a student’s progress over time."
+    },
+    {
+      "id": "Education_General_Medium_Q009",
+      "question": "Which method encourages metacognition in students?",
+      "options": {
+        "A": "Repeating content",
+        "B": "Reflecting on their own learning process",
+        "C": "Taking notes",
+        "D": "Listening to lectures"
+      },
+      "answer": "B",
+      "explanation": "Metacognition involves thinking about one’s own thinking and learning."
+    },
+    {
+      "id": "Education_General_Medium_Q010",
+      "question": "Which of the following platforms allows for quiz-based learning with a competitive element?",
+      "options": {
+        "A": "Google Sheets",
+        "B": "Kahoot!",
+        "C": "Zoom",
+        "D": "MS Paint"
+      },
+      "answer": "B",
+      "explanation": "Kahoot! is a game-based learning platform using quizzes and competition."
+    },
+    {
+      "id": "Education_General_Medium_Q011",
+      "question": "What is the best way to ensure students grasp a new topic?",
+      "options": {
+        "A": "Give more homework",
+        "B": "Test them immediately",
+        "C": "Use questioning and feedback throughout the lesson",
+        "D": "Repeat the topic daily"
+      },
+      "answer": "C",
+      "explanation": "Questioning and feedback help confirm and reinforce understanding."
+    },
+    {
+      "id": "Education_General_Medium_Q012",
+      "question": "Which of these is an example of experiential learning?",
+      "options": {
+        "A": "Watching a video",
+        "B": "Reading a book",
+        "C": "Doing a science experiment",
+        "D": "Listening to a podcast"
+      },
+      "answer": "C",
+      "explanation": "Experiential learning involves learning through hands-on experience."
+    },
+    {
+      "id": "Education_General_Medium_Q013",
+      "question": "If 3 teachers each manage 4 groups of 5 students, how many students in total?",
+      "options": {
+        "A": "45",
+        "B": "60",
+        "C": "40",
+        "D": "50"
+      },
+      "answer": "B",
+      "explanation": "3 × 4 = 12 groups; 12 × 5 = 60 students."
+    },
+    {
+      "id": "Education_General_Medium_Q014",
+      "question": "Which is a benefit of using learning management systems (LMS)?",
+      "options": {
+        "A": "Distraction-free classroom",
+        "B": "Automatic lunch planning",
+        "C": "Tracking assignments and performance",
+        "D": "Fewer lessons"
+      },
+      "answer": "C",
+      "explanation": "LMS tools help track learning progress and manage content delivery."
+    },
+    {
+      "id": "Education_General_Medium_Q015",
+      "question": "What does 'scaffolding' in education mean?",
+      "options": {
+        "A": "Decorating the classroom",
+        "B": "Providing temporary support to learners",
+        "C": "Group punishment",
+        "D": "Using only textbooks"
+      },
+      "answer": "B",
+      "explanation": "Scaffolding provides support that is gradually removed as competence grows."
+    },
+    {
+      "id": "Education_General_Medium_Q016",
+      "question": "How can a teacher promote higher-order thinking?",
+      "options": {
+        "A": "Give simple recall questions",
+        "B": "Use open-ended and analytical questions",
+        "C": "Repeat facts",
+        "D": "Skip activities"
+      },
+      "answer": "B",
+      "explanation": "Higher-order thinking requires analysis, synthesis, and evaluation."
+    },
+    {
+      "id": "Education_General_Medium_Q017",
+      "question": "What is the purpose of reflective journaling in education?",
+      "options": {
+        "A": "List homework",
+        "B": "Record attendance",
+        "C": "Promote self-awareness and learning reflection",
+        "D": "Track grades"
+      },
+      "answer": "C",
+      "explanation": "Reflective journals help students evaluate their own learning."
+    },
+    {
+      "id": "Education_General_Medium_Q018",
+      "question": "Which practice aligns with a student-centered approach?",
+      "options": {
+        "A": "Lecture-based instruction",
+        "B": "Teacher-only decisions",
+        "C": "Allowing students to explore topics of interest",
+        "D": "Fixed seating plans"
+      },
+      "answer": "C",
+      "explanation": "Student-centered learning values student voice and choice."
+    },
+    {
+      "id": "Education_General_Medium_Q019",
+      "question": "Which of the following is an appropriate strategy for time management in a classroom?",
+      "options": {
+        "A": "Skip breaks",
+        "B": "Use timers for tasks",
+        "C": "Write more notes",
+        "D": "Increase homework time"
+      },
+      "answer": "B",
+      "explanation": "Timers help manage pacing and stay on schedule."
+    },
+    {
+      "id": "Education_General_Medium_Q020",
+      "question": "What is the role of feedback in student learning?",
+      "options": {
+        "A": "Confuse students",
+        "B": "Punish poor performance",
+        "C": "Guide improvement and clarify expectations",
+        "D": "Reduce participation"
+      },
+      "answer": "C",
+      "explanation": "Feedback provides clear direction for improvement and learning."
+    }
+  ]
+

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "category": "Logical",
+    "difficulty": "Easy",
+    "question": "What comes next in the sequence: 2, 4, 8, 16, ?",
+    "options": ["18", "24", "32", "20"],
+    "answer": "32",
+    "explanation": "The pattern doubles each time: 2×2=4, 4×2=8, 8×2=16, so 16×2=32."
+  },
+  {
+    "id": 2,
+    "category": "Numerical",
+    "difficulty": "Easy",
+    "question": "What is 25% of 200?",
+    "options": ["25", "50", "100", "75"],
+    "answer": "50",
+    "explanation": "25% means one-quarter. 200 × 0.25 = 50."
+  },
+  {
+    "id": 3,
+    "category": "Verbal",
+    "difficulty": "Easy",
+    "question": "Choose the synonym of 'rapid'.",
+    "options": ["slow", "fast", "tired", "weak"],
+    "answer": "fast",
+    "explanation": "'Rapid' means fast or quick. So the synonym is 'fast'."
+  },
+  {
+    "id": 4,
+    "category": "General",
+    "difficulty": "Easy",
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": "Mars",
+    "explanation": "Mars is called the Red Planet due to its reddish appearance caused by iron oxide on its surface."
+  }
+]

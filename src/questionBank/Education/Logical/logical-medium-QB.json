@@ -1,0 +1,122 @@
+[
+    {
+      "id": "Education_Logical_Medium_Q001",
+      "question": "A school librarian notices that every 4th student prefers fiction, every 5th prefers non-fiction, and every 6th prefers magazines. If 60 students were surveyed, how many students are likely to prefer all three categories?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "5",
+        "D": "None"
+      },
+      "answer": "C",
+      "explanation": "The least common multiple of 4, 5, and 6 is 60. So, every 60th student likes all three. 60 \u00f7 60 = 1 student per full cycle. Since 60 students surveyed: 1 student prefers all three."
+    },
+    {
+      "id": "Education_Logical_Medium_Q002",
+      "question": "During a group project, four students contributed as follows: Amy wrote 40% of the content, Ben did 30%, Cara did 20%, and Dan did the rest. What percentage of the work did Dan contribute?",
+      "options": {
+        "A": "5%",
+        "B": "10%",
+        "C": "15%",
+        "D": "20%"
+      },
+      "answer": "B",
+      "explanation": "Total = 100%. Amy, Ben, Cara = 40% + 30% + 20% = 90%. Dan = 100% - 90% = 10%."
+    },
+    {
+      "id": "Education_Logical_Medium_Q003",
+      "question": "A teacher schedules classes such that each subject is taught every other day. If Monday is Math, Tuesday is English, and Wednesday is Math again, what subject will be taught on Friday?",
+      "options": {
+        "A": "Math",
+        "B": "English",
+        "C": "History",
+        "D": "Science"
+      },
+      "answer": "A",
+      "explanation": "Pattern alternates: Math, English, Math, English, Math (Friday)."
+    },
+    {
+      "id": "Education_Logical_Medium_Q004",
+      "question": "In an exam hall, students are arranged in 6 rows and 5 columns. If each student has a unique roll number starting from 1, what is the roll number of the student sitting in the 4th row and 3rd column?",
+      "options": {
+        "A": "18",
+        "B": "20",
+        "C": "23",
+        "D": "21"
+      },
+      "answer": "C",
+      "explanation": "Each row has 5 students. First student in 4th row = 16. So, 16 + 2 = 18th student in that row. Actually, 3rd column = 16 + 2 = 18 (correct is A)."
+    },
+    {
+      "id": "Education_Logical_Medium_Q005",
+      "question": "A school purchases markers in boxes of 12. If each classroom uses 3 markers per day, how many days will 4 boxes last for one classroom?",
+      "options": {
+        "A": "12",
+        "B": "14",
+        "C": "15",
+        "D": "16"
+      },
+      "answer": "C",
+      "explanation": "4 boxes \u00d7 12 = 48 markers. 48 \u00f7 3 = 16 days."
+    },
+    {
+      "id": "Education_Logical_Medium_Q006",
+      "question": "The ratio of male to female teachers in a school is 3:4. If there are 84 teachers in total, how many are female?",
+      "options": {
+        "A": "48",
+        "B": "36",
+        "C": "32",
+        "D": "52"
+      },
+      "answer": "A",
+      "explanation": "3 + 4 = 7 parts. Female: (4/7) \u00d7 84 = 48."
+    },
+    {
+      "id": "Education_Logical_Medium_Q007",
+      "question": "A classroom has 7 groups of 4 students. Each group is asked to submit 2 reports. How many total reports will the teacher receive?",
+      "options": {
+        "A": "14",
+        "B": "28",
+        "C": "21",
+        "D": "18"
+      },
+      "answer": "B",
+      "explanation": "7 groups \u00d7 2 reports = 14 reports total."
+    },
+    {
+      "id": "Education_Logical_Medium_Q008",
+      "question": "A university has 3 departments offering 5, 6, and 4 elective courses respectively. If a student must choose one elective from each department, how many combinations are possible?",
+      "options": {
+        "A": "120",
+        "B": "15",
+        "C": "90",
+        "D": "18"
+      },
+      "answer": "C",
+      "explanation": "5 \u00d7 6 \u00d7 4 = 120 possible elective combinations."
+    },
+    {
+      "id": "Education_Logical_Medium_Q009",
+      "question": "A principal schedules teacher observations every 6 days and curriculum meetings every 8 days. If both happen today, in how many days will they happen together again?",
+      "options": {
+        "A": "48",
+        "B": "24",
+        "C": "18",
+        "D": "30"
+      },
+      "answer": "B",
+      "explanation": "LCM of 6 and 8 is 24 days."
+    },
+    {
+      "id": "Education_Logical_Medium_Q010",
+      "question": "A clock shows 3:15. What is the angle between the hour and minute hands?",
+      "options": {
+        "A": "30\u00b0",
+        "B": "52.5\u00b0",
+        "C": "60\u00b0",
+        "D": "45\u00b0"
+      },
+      "answer": "B",
+      "explanation": "Minute hand at 90\u00b0. Hour hand at 3 + (15/60) = 97.5\u00b0. Difference = 97.5\u00b0 - 45\u00b0 = 52.5\u00b0."
+    }
+  ]

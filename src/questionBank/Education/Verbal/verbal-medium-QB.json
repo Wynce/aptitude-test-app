@@ -1,0 +1,242 @@
+[
+    {
+      "id": "Education_Verbal_Medium_Q001",
+      "question": "Identify the grammatically correct sentence.",
+      "options": {
+        "A": "She don\u2019t like pizza.",
+        "B": "He go to work every day.",
+        "C": "They was late again.",
+        "D": "We have finished the task."
+      },
+      "answer": "D",
+      "explanation": "\u2018We have finished the task\u2019 is grammatically correct. Others contain subject-verb agreement errors."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q002",
+      "question": "Which word is the best antonym for \u2018transparent\u2019?",
+      "options": {
+        "A": "clear",
+        "B": "opaque",
+        "C": "visible",
+        "D": "pure"
+      },
+      "answer": "B",
+      "explanation": "\u2018Opaque\u2019 is the opposite of \u2018transparent\u2019 because it means not allowing light to pass through."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q003",
+      "question": "Choose the most appropriate synonym for the underlined word in the sentence: 'The manager was known for his *astute* decision-making.'",
+      "options": {
+        "A": "foolish",
+        "B": "sharp",
+        "C": "naive",
+        "D": "lazy"
+      },
+      "answer": "B",
+      "explanation": "\u2018Astute\u2019 means having or showing an ability to accurately assess situations. \u2018Sharp\u2019 is the closest synonym."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q004",
+      "question": "Which sentence uses the word \u2018ensure\u2019 correctly?",
+      "options": {
+        "A": "He ensure the light was off.",
+        "B": "Please ensure you lock the door.",
+        "C": "She ensure to eat breakfast.",
+        "D": "They ensure to call."
+      },
+      "answer": "B",
+      "explanation": "\u2018Ensure\u2019 means to make certain. Sentence B uses the verb form correctly."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q005",
+      "question": "Which word is the best antonym for \u2018transparent\u2019?",
+      "options": {
+        "A": "clear",
+        "B": "opaque",
+        "C": "visible",
+        "D": "pure"
+      },
+      "answer": "B",
+      "explanation": "\u2018Opaque\u2019 is the opposite of \u2018transparent\u2019 because it means not allowing light to pass through."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q006",
+      "question": "Choose the sentence with proper punctuation.",
+      "options": {
+        "A": "My friend, who lives in New York is visiting.",
+        "B": "Its raining heavily today.",
+        "C": "We brought sandwiches, drinks, and snacks.",
+        "D": "Where are you going."
+      },
+      "answer": "C",
+      "explanation": "Option C correctly uses commas in a list."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q007",
+      "question": "Choose the sentence with proper punctuation.",
+      "options": {
+        "A": "My friend, who lives in New York is visiting.",
+        "B": "Its raining heavily today.",
+        "C": "We brought sandwiches, drinks, and snacks.",
+        "D": "Where are you going."
+      },
+      "answer": "C",
+      "explanation": "Option C correctly uses commas in a list."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q008",
+      "question": "Which word is the best antonym for \u2018transparent\u2019?",
+      "options": {
+        "A": "clear",
+        "B": "opaque",
+        "C": "visible",
+        "D": "pure"
+      },
+      "answer": "B",
+      "explanation": "\u2018Opaque\u2019 is the opposite of \u2018transparent\u2019 because it means not allowing light to pass through."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q009",
+      "question": "Which sentence uses the word \u2018ensure\u2019 correctly?",
+      "options": {
+        "A": "He ensure the light was off.",
+        "B": "Please ensure you lock the door.",
+        "C": "She ensure to eat breakfast.",
+        "D": "They ensure to call."
+      },
+      "answer": "B",
+      "explanation": "\u2018Ensure\u2019 means to make certain. Sentence B uses the verb form correctly."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q010",
+      "question": "Choose the most appropriate synonym for the underlined word in the sentence: 'The manager was known for his *astute* decision-making.'",
+      "options": {
+        "A": "foolish",
+        "B": "sharp",
+        "C": "naive",
+        "D": "lazy"
+      },
+      "answer": "B",
+      "explanation": "\u2018Astute\u2019 means having or showing an ability to accurately assess situations. \u2018Sharp\u2019 is the closest synonym."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q011",
+      "question": "Which sentence uses the word \u2018ensure\u2019 correctly?",
+      "options": {
+        "A": "He ensure the light was off.",
+        "B": "Please ensure you lock the door.",
+        "C": "She ensure to eat breakfast.",
+        "D": "They ensure to call."
+      },
+      "answer": "B",
+      "explanation": "\u2018Ensure\u2019 means to make certain. Sentence B uses the verb form correctly."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q012",
+      "question": "Choose the sentence with proper punctuation.",
+      "options": {
+        "A": "My friend, who lives in New York is visiting.",
+        "B": "Its raining heavily today.",
+        "C": "We brought sandwiches, drinks, and snacks.",
+        "D": "Where are you going."
+      },
+      "answer": "C",
+      "explanation": "Option C correctly uses commas in a list."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q013",
+      "question": "Identify the grammatically correct sentence.",
+      "options": {
+        "A": "She don\u2019t like pizza.",
+        "B": "He go to work every day.",
+        "C": "They was late again.",
+        "D": "We have finished the task."
+      },
+      "answer": "D",
+      "explanation": "\u2018We have finished the task\u2019 is grammatically correct. Others contain subject-verb agreement errors."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q014",
+      "question": "Which sentence uses the word \u2018ensure\u2019 correctly?",
+      "options": {
+        "A": "He ensure the light was off.",
+        "B": "Please ensure you lock the door.",
+        "C": "She ensure to eat breakfast.",
+        "D": "They ensure to call."
+      },
+      "answer": "B",
+      "explanation": "\u2018Ensure\u2019 means to make certain. Sentence B uses the verb form correctly."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q015",
+      "question": "Choose the sentence with proper punctuation.",
+      "options": {
+        "A": "My friend, who lives in New York is visiting.",
+        "B": "Its raining heavily today.",
+        "C": "We brought sandwiches, drinks, and snacks.",
+        "D": "Where are you going."
+      },
+      "answer": "C",
+      "explanation": "Option C correctly uses commas in a list."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q016",
+      "question": "Identify the grammatically correct sentence.",
+      "options": {
+        "A": "She don\u2019t like pizza.",
+        "B": "He go to work every day.",
+        "C": "They was late again.",
+        "D": "We have finished the task."
+      },
+      "answer": "D",
+      "explanation": "\u2018We have finished the task\u2019 is grammatically correct. Others contain subject-verb agreement errors."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q017",
+      "question": "Which word is the best antonym for \u2018transparent\u2019?",
+      "options": {
+        "A": "clear",
+        "B": "opaque",
+        "C": "visible",
+        "D": "pure"
+      },
+      "answer": "B",
+      "explanation": "\u2018Opaque\u2019 is the opposite of \u2018transparent\u2019 because it means not allowing light to pass through."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q018",
+      "question": "Choose the most appropriate synonym for the underlined word in the sentence: 'The manager was known for his *astute* decision-making.'",
+      "options": {
+        "A": "foolish",
+        "B": "sharp",
+        "C": "naive",
+        "D": "lazy"
+      },
+      "answer": "B",
+      "explanation": "\u2018Astute\u2019 means having or showing an ability to accurately assess situations. \u2018Sharp\u2019 is the closest synonym."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q019",
+      "question": "Choose the most appropriate synonym for the underlined word in the sentence: 'The manager was known for his *astute* decision-making.'",
+      "options": {
+        "A": "foolish",
+        "B": "sharp",
+        "C": "naive",
+        "D": "lazy"
+      },
+      "answer": "B",
+      "explanation": "\u2018Astute\u2019 means having or showing an ability to accurately assess situations. \u2018Sharp\u2019 is the closest synonym."
+    },
+    {
+      "id": "Education_Verbal_Medium_Q020",
+      "question": "Which word is the best antonym for \u2018transparent\u2019?",
+      "options": {
+        "A": "clear",
+        "B": "opaque",
+        "C": "visible",
+        "D": "pure"
+      },
+      "answer": "B",
+      "explanation": "\u2018Opaque\u2019 is the opposite of \u2018transparent\u2019 because it means not allowing light to pass through."
+    }
+  ]

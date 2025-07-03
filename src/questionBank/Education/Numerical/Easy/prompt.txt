@@ -1,0 +1,34 @@
+Prompt:
+Please generate 20 Easy-level aptitude test questions for the Education industry in the Numerical category.
+
+Requirements:
+
+Format the output as a JSON array of 20 objects.
+
+Each object must include the following keys:
+
+"id": a unique identifier using the format "Education_Numerical_Easy_Q###" (e.g., "Education_Numerical_Easy_Q001")
+
+"question": the full question text
+
+"options": an object with keys "A", "B", "C", and "D" and their corresponding answer choices
+
+"answer": the correct answer key (e.g., "B")
+
+"explanation": a short explanation of why the selected answer is correct
+
+Questions should be:
+
+Relevant for job seekers
+
+Realistic and contextual
+
+Clear and not overly technical
+
+Avoid:
+
+Duplicated questions
+
+Generic or overly simplistic questions
+
+Ensure the JSON is valid and ready for direct use in an aptitude test app.

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "Education_Numerical_Medium_Q001",
+    "question": "A school plans to increase its student intake by 15% next year. If the current enrollment is 1,200 students, how many students are expected next year? (Scenario 1)",
+    "options": {
+      "A": "1,320",
+      "B": "1,350",
+      "C": "1,380",
+      "D": "1,400"
+    },
+    "answer": "B",
+    "explanation": "15% of 1200 = 180, so total = 1200 + 180 = 1380."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q002",
+    "question": "A textbook originally priced at RM80 is being offered at 25% discount. What is the discounted price? (Scenario 2)",
+    "options": {
+      "A": "RM55",
+      "B": "RM58",
+      "C": "RM60",
+      "D": "RM62"
+    },
+    "answer": "C",
+    "explanation": "25% of 80 = 20, so price = 80 - 20 = 60."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q003",
+    "question": "A textbook originally priced at RM80 is being offered at 25% discount. What is the discounted price? (Scenario 3)",
+    "options": {
+      "A": "RM55",
+      "B": "RM58",
+      "C": "RM60",
+      "D": "RM62"
+    },
+    "answer": "C",
+    "explanation": "25% of 80 = 20, so price = 80 - 20 = 60."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q004",
+    "question": "A school plans to increase its student intake by 15% next year. If the current enrollment is 1,200 students, how many students are expected next year? (Scenario 4)",
+    "options": {
+      "A": "1,320",
+      "B": "1,350",
+      "C": "1,380",
+      "D": "1,400"
+    },
+    "answer": "B",
+    "explanation": "15% of 1200 = 180, so total = 1200 + 180 = 1380."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q005",
+    "question": "A school plans to increase its student intake by 15% next year. If the current enrollment is 1,200 students, how many students are expected next year? (Scenario 5)",
+    "options": {
+      "A": "1,320",
+      "B": "1,350",
+      "C": "1,380",
+      "D": "1,400"
+    },
+    "answer": "B",
+    "explanation": "15% of 1200 = 180, so total = 1200 + 180 = 1380."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q006",
+    "question": "A university library receives a government grant of RM120,000 to be spent equally over 8 departments. How much does each department get? (Scenario 6)",
+    "options": {
+      "A": "RM14,000",
+      "B": "RM15,000",
+      "C": "RM16,000",
+      "D": "RM17,000"
+    },
+    "answer": "B",
+    "explanation": "120,000 \u00f7 8 = 15,000."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q007",
+    "question": "A university library receives a government grant of RM120,000 to be spent equally over 8 departments. How much does each department get? (Scenario 7)",
+    "options": {
+      "A": "RM14,000",
+      "B": "RM15,000",
+      "C": "RM16,000",
+      "D": "RM17,000"
+    },
+    "answer": "B",
+    "explanation": "120,000 \u00f7 8 = 15,000."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q008",
+    "question": "A tuition centre earned RM9,600 in four months. If earnings increased by RM200 each month, how much did it earn in the fourth month? (Scenario 8)",
+    "options": {
+      "A": "RM2,800",
+      "B": "RM2,900",
+      "C": "RM3,000",
+      "D": "RM3,100"
+    },
+    "answer": "C",
+    "explanation": "Let first month = x, then next months: x+200, x+400, x+600. Sum = 4x + 1200 = 9600 => x = 2100, so 4th = 2100+600 = 2700."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q009",
+    "question": "A tuition centre earned RM9,600 in four months. If earnings increased by RM200 each month, how much did it earn in the fourth month? (Scenario 9)",
+    "options": {
+      "A": "RM2,800",
+      "B": "RM2,900",
+      "C": "RM3,000",
+      "D": "RM3,100"
+    },
+    "answer": "C",
+    "explanation": "Let first month = x, then next months: x+200, x+400, x+600. Sum = 4x + 1200 = 9600 => x = 2100, so 4th = 2100+600 = 2700."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q010",
+    "question": "A textbook originally priced at RM80 is being offered at 25% discount. What is the discounted price? (Scenario 10)",
+    "options": {
+      "A": "RM55",
+      "B": "RM58",
+      "C": "RM60",
+      "D": "RM62"
+    },
+    "answer": "C",
+    "explanation": "25% of 80 = 20, so price = 80 - 20 = 60."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q011",
+    "question": "A tuition centre earned RM9,600 in four months. If earnings increased by RM200 each month, how much did it earn in the fourth month? (Scenario 11)",
+    "options": {
+      "A": "RM2,800",
+      "B": "RM2,900",
+      "C": "RM3,000",
+      "D": "RM3,100"
+    },
+    "answer": "C",
+    "explanation": "Let first month = x, then next months: x+200, x+400, x+600. Sum = 4x + 1200 = 9600 => x = 2100, so 4th = 2100+600 = 2700."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q012",
+    "question": "A textbook originally priced at RM80 is being offered at 25% discount. What is the discounted price? (Scenario 12)",
+    "options": {
+      "A": "RM55",
+      "B": "RM58",
+      "C": "RM60",
+      "D": "RM62"
+    },
+    "answer": "C",
+    "explanation": "25% of 80 = 20, so price = 80 - 20 = 60."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q013",
+    "question": "A tuition centre earned RM9,600 in four months. If earnings increased by RM200 each month, how much did it earn in the fourth month? (Scenario 13)",
+    "options": {
+      "A": "RM2,800",
+      "B": "RM2,900",
+      "C": "RM3,000",
+      "D": "RM3,100"
+    },
+    "answer": "C",
+    "explanation": "Let first month = x, then next months: x+200, x+400, x+600. Sum = 4x + 1200 = 9600 => x = 2100, so 4th = 2100+600 = 2700."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q014",
+    "question": "A school plans to increase its student intake by 15% next year. If the current enrollment is 1,200 students, how many students are expected next year? (Scenario 14)",
+    "options": {
+      "A": "1,320",
+      "B": "1,350",
+      "C": "1,380",
+      "D": "1,400"
+    },
+    "answer": "B",
+    "explanation": "15% of 1200 = 180, so total = 1200 + 180 = 1380."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q015",
+    "question": "A tuition centre earned RM9,600 in four months. If earnings increased by RM200 each month, how much did it earn in the fourth month? (Scenario 15)",
+    "options": {
+      "A": "RM2,800",
+      "B": "RM2,900",
+      "C": "RM3,000",
+      "D": "RM3,100"
+    },
+    "answer": "C",
+    "explanation": "Let first month = x, then next months: x+200, x+400, x+600. Sum = 4x + 1200 = 9600 => x = 2100, so 4th = 2100+600 = 2700."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q016",
+    "question": "In a classroom, the student-to-chair ratio is 5:6. If there are 150 students, how many chairs are there? (Scenario 16)",
+    "options": {
+      "A": "160",
+      "B": "170",
+      "C": "180",
+      "D": "190"
+    },
+    "answer": "C",
+    "explanation": "If 5:6 = students:chairs, then chairs = (6/5) * 150 = 180."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q017",
+    "question": "A textbook originally priced at RM80 is being offered at 25% discount. What is the discounted price? (Scenario 17)",
+    "options": {
+      "A": "RM55",
+      "B": "RM58",
+      "C": "RM60",
+      "D": "RM62"
+    },
+    "answer": "C",
+    "explanation": "25% of 80 = 20, so price = 80 - 20 = 60."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q018",
+    "question": "A tuition centre earned RM9,600 in four months. If earnings increased by RM200 each month, how much did it earn in the fourth month? (Scenario 18)",
+    "options": {
+      "A": "RM2,800",
+      "B": "RM2,900",
+      "C": "RM3,000",
+      "D": "RM3,100"
+    },
+    "answer": "C",
+    "explanation": "Let first month = x, then next months: x+200, x+400, x+600. Sum = 4x + 1200 = 9600 => x = 2100, so 4th = 2100+600 = 2700."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q019",
+    "question": "A school plans to increase its student intake by 15% next year. If the current enrollment is 1,200 students, how many students are expected next year? (Scenario 19)",
+    "options": {
+      "A": "1,320",
+      "B": "1,350",
+      "C": "1,380",
+      "D": "1,400"
+    },
+    "answer": "B",
+    "explanation": "15% of 1200 = 180, so total = 1200 + 180 = 1380."
+  },
+  {
+    "id": "Education_Numerical_Medium_Q020",
+    "question": "In a classroom, the student-to-chair ratio is 5:6. If there are 150 students, how many chairs are there? (Scenario 20)",
+    "options": {
+      "A": "160",
+      "B": "170",
+      "C": "180",
+      "D": "190"
+    },
+    "answer": "C",
+    "explanation": "If 5:6 = students:chairs, then chairs = (6/5) * 150 = 180."
+  }
+]
