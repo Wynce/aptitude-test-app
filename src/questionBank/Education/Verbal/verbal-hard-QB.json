@@ -1,242 +1,242 @@
 [
-    {
-      "id": "Education_Verbal_Hard_Q001",
-      "question": "Refer to the chart showing the percentage of students who prefer various learning styles. Which inference is most supported by the data?\n\n![Learning Styles Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Learning_Styles_Chart.svg/1200px-Learning_Styles_Chart.svg.png)",
-      "options": {
-        "A": "Most students prefer auditory learning over kinesthetic learning.",
-        "B": "The majority of students prefer kinesthetic learning.",
-        "C": "Visual learning is equally preferred as auditory learning.",
-        "D": "Very few students prefer visual learning."
-      },
-      "answer": "B",
-      "explanation": "The chart shows kinesthetic learning as having the highest percentage, making it the most preferred style."
+  {
+    "id": "Education_Verbal_Hard_Q001",
+    "question": "A teacher says, 'While grades are important, our focus is to instill lifelong learning habits.' What does the teacher most likely mean?",
+    "options": {
+      "A": "Grades are the only way to measure success.",
+      "B": "Habits are formed solely through grades.",
+      "C": "Learning habits are valued more than grades.",
+      "D": "Grades and habits have equal importance."
     },
-    {
-      "id": "Education_Verbal_Hard_Q002",
-      "question": "Look at the pie chart below representing the distribution of communication methods in a workplace. Which statement best reflects a potential communication challenge?\n\n![Communication Pie Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Pie_chart_of_workplace_communication.svg/1024px-Pie_chart_of_workplace_communication.svg.png)",
-      "options": {
-        "A": "The reliance on face-to-face meetings increases documentation efficiency.",
-        "B": "Using emails as the primary communication mode may lead to misinterpretation.",
-        "C": "Phone communication dominates and ensures clarity.",
-        "D": "Instant messaging is preferred over emails."
-      },
-      "answer": "B",
-      "explanation": "The chart shows emails dominate communication. Overreliance may result in miscommunication or lack of tone clarity."
+    "answer": "C",
+    "explanation": "The teacher is emphasizing that developing habits of learning is more critical than just achieving grades."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q002",
+    "question": "In a workshop, an educator states, 'Equity in education requires unequal distribution of resources to ensure equal outcomes.' What best reflects this viewpoint?",
+    "options": {
+      "A": "All students should receive the same materials.",
+      "B": "Students with more needs get more support.",
+      "C": "No support should be provided to any student.",
+      "D": "Outcomes are irrelevant in education."
     },
-    {
-      "id": "Education_Verbal_Hard_Q003",
-      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
-      "options": {
-        "A": "The manager is against any new ideas.",
-        "B": "Risk-taking is encouraged over stability.",
-        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
-        "D": "Core operations are irrelevant in decision-making."
-      },
-      "answer": "C",
-      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    "answer": "B",
+    "explanation": "Equity is about distributing resources based on need, not equally, to achieve fairness."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q003",
+    "question": "A principal says, 'Discipline is not about punishment but about cultivating responsibility.' What is most aligned with this philosophy?",
+    "options": {
+      "A": "Students should be punished for every mistake.",
+      "B": "Discipline equals strict rule enforcement.",
+      "C": "Responsibility comes through reflective practices.",
+      "D": "Punishment discourages future mistakes."
     },
-    {
-      "id": "Education_Verbal_Hard_Q004",
-      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
-      "options": {
-        "A": "The manager is against any new ideas.",
-        "B": "Risk-taking is encouraged over stability.",
-        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
-        "D": "Core operations are irrelevant in decision-making."
-      },
-      "answer": "C",
-      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    "answer": "C",
+    "explanation": "The statement emphasizes teaching responsibility through understanding and reflection, not punishment."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q004",
+    "question": "During a training session, a speaker says, 'Feedback is only effective when it promotes growth.' What makes feedback ineffective?",
+    "options": {
+      "A": "It’s focused on improvement.",
+      "B": "It’s specific and actionable.",
+      "C": "It’s vague and critical with no support.",
+      "D": "It’s delivered with empathy."
     },
-    {
-      "id": "Education_Verbal_Hard_Q005",
-      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
-      "options": {
-        "A": "The manager is against any new ideas.",
-        "B": "Risk-taking is encouraged over stability.",
-        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
-        "D": "Core operations are irrelevant in decision-making."
-      },
-      "answer": "C",
-      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    "answer": "C",
+    "explanation": "Feedback that is vague and purely critical does not help the learner grow, making it ineffective."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q005",
+    "question": "A curriculum designer says, 'Teaching 21st-century skills requires us to de-emphasize rote memorization.' What is implied?",
+    "options": {
+      "A": "Rote learning is outdated.",
+      "B": "Memorization is central to education.",
+      "C": "21st-century skills depend on memorization.",
+      "D": "No skills are needed in the 21st century."
     },
-    {
-      "id": "Education_Verbal_Hard_Q006",
-      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
-      "options": {
-        "A": "The manager is against any new ideas.",
-        "B": "Risk-taking is encouraged over stability.",
-        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
-        "D": "Core operations are irrelevant in decision-making."
-      },
-      "answer": "C",
-      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    "answer": "A",
+    "explanation": "21st-century skills such as critical thinking and collaboration require more than rote memorization."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q006",
+    "question": "A teacher remarks, 'Students are not empty vessels; they bring knowledge with them.' This challenges which teaching method?",
+    "options": {
+      "A": "Constructivist approach",
+      "B": "Collaborative learning",
+      "C": "Banking model of education",
+      "D": "Inquiry-based learning"
     },
-    {
-      "id": "Education_Verbal_Hard_Q007",
-      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
-      "options": {
-        "A": "The manager is against any new ideas.",
-        "B": "Risk-taking is encouraged over stability.",
-        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
-        "D": "Core operations are irrelevant in decision-making."
-      },
-      "answer": "C",
-      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    "answer": "C",
+    "explanation": "The banking model views students as passive recipients of knowledge, which the teacher is rejecting."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q007",
+    "question": "An educator says, 'Assessment should guide instruction, not just evaluate it.' Which practice best aligns with this?",
+    "options": {
+      "A": "Using tests only at the end of term",
+      "B": "Giving surprise quizzes frequently",
+      "C": "Formative assessments that inform next lessons",
+      "D": "Punishing students for low scores"
     },
-    {
-      "id": "Education_Verbal_Hard_Q008",
-      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
-      "options": {
-        "A": "The manager is against any new ideas.",
-        "B": "Risk-taking is encouraged over stability.",
-        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
-        "D": "Core operations are irrelevant in decision-making."
-      },
-      "answer": "C",
-      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    "answer": "C",
+    "explanation": "Formative assessments are used to adapt teaching, aligning with the idea of guiding instruction."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q008",
+    "question": "In an article, the author argues that 'standardized testing narrows the curriculum.' Which consequence supports this claim?",
+    "options": {
+      "A": "Teachers cover diverse interdisciplinary topics.",
+      "B": "Subjects outside test content are neglected.",
+      "C": "Students perform better in creative subjects.",
+      "D": "Schools invest in arts and music equally."
     },
-    {
-      "id": "Education_Verbal_Hard_Q009",
-      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
-      "options": {
-        "A": "The manager is against any new ideas.",
-        "B": "Risk-taking is encouraged over stability.",
-        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
-        "D": "Core operations are irrelevant in decision-making."
-      },
-      "answer": "C",
-      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    "answer": "B",
+    "explanation": "When standardized testing dominates, educators tend to focus only on tested subjects."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q009",
+    "question": "In a seminar, it's stated that 'teacher expectations shape student performance.' What phenomenon does this describe?",
+    "options": {
+      "A": "Hawthorne Effect",
+      "B": "Placebo Effect",
+      "C": "Pygmalion Effect",
+      "D": "Golem Effect"
     },
-    {
-      "id": "Education_Verbal_Hard_Q010",
-      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
-      "options": {
-        "A": "The manager is against any new ideas.",
-        "B": "Risk-taking is encouraged over stability.",
-        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
-        "D": "Core operations are irrelevant in decision-making."
-      },
-      "answer": "C",
-      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    "answer": "C",
+    "explanation": "The Pygmalion Effect shows that higher expectations can lead to improved performance."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q010",
+    "question": "A school adopts a 'flipped classroom' model. What best describes this approach?",
+    "options": {
+      "A": "Students teach each other in class.",
+      "B": "Lectures are watched at home; activities done in class.",
+      "C": "Only homework is assigned daily.",
+      "D": "Students create their own curriculum."
     },
-    {
-      "id": "Education_Verbal_Hard_Q011",
-      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
-      "options": {
-        "A": "The manager is against any new ideas.",
-        "B": "Risk-taking is encouraged over stability.",
-        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
-        "D": "Core operations are irrelevant in decision-making."
-      },
-      "answer": "C",
-      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    "answer": "B",
+    "explanation": "In flipped classrooms, students watch lecture content at home and do practice or discussion in class."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q011",
+    "question": "A school leader says, 'A culture of trust among staff is more impactful than rules.' What does this imply?",
+    "options": {
+      "A": "Trust leads to fewer rules.",
+      "B": "Rules are the foundation of culture.",
+      "C": "Only rules create performance.",
+      "D": "Trust undermines authority."
     },
-    {
-      "id": "Education_Verbal_Hard_Q012",
-      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
-      "options": {
-        "A": "The manager is against any new ideas.",
-        "B": "Risk-taking is encouraged over stability.",
-        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
-        "D": "Core operations are irrelevant in decision-making."
-      },
-      "answer": "C",
-      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    "answer": "A",
+    "explanation": "Trust reduces the need for rigid rule enforcement and promotes self-governance."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q012",
+    "question": "A training document states, 'Instructional technology should amplify teaching, not replace it.' What is implied?",
+    "options": {
+      "A": "Teachers are no longer needed.",
+      "B": "Technology should automate education.",
+      "C": "Technology should enhance teaching strategies.",
+      "D": "Teaching is outdated with new tech."
     },
-    {
-      "id": "Education_Verbal_Hard_Q013",
-      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
-      "options": {
-        "A": "The manager is against any new ideas.",
-        "B": "Risk-taking is encouraged over stability.",
-        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
-        "D": "Core operations are irrelevant in decision-making."
-      },
-      "answer": "C",
-      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    "answer": "C",
+    "explanation": "Technology should support and extend teaching, not act as a substitute."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q013",
+    "question": "An educator says, 'Reading comprehension is more than decoding words.' What does this suggest?",
+    "options": {
+      "A": "Comprehension is only about speed.",
+      "B": "Understanding meaning is critical.",
+      "C": "Word recognition is sufficient.",
+      "D": "Students should skip difficult texts."
     },
-    {
-      "id": "Education_Verbal_Hard_Q014",
-      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
-      "options": {
-        "A": "The manager is against any new ideas.",
-        "B": "Risk-taking is encouraged over stability.",
-        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
-        "D": "Core operations are irrelevant in decision-making."
-      },
-      "answer": "C",
-      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    "answer": "B",
+    "explanation": "True reading comprehension requires extracting and interpreting meaning, not just recognizing words."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q014",
+    "question": "A teacher observes, 'Collaborative learning improves retention.' What supports this claim?",
+    "options": {
+      "A": "Silent studying is better than discussions.",
+      "B": "Peer explanation deepens understanding.",
+      "C": "Learning is an individual effort.",
+      "D": "Tests measure learning better than peers."
     },
-    {
-      "id": "Education_Verbal_Hard_Q015",
-      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
-      "options": {
-        "A": "The manager is against any new ideas.",
-        "B": "Risk-taking is encouraged over stability.",
-        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
-        "D": "Core operations are irrelevant in decision-making."
-      },
-      "answer": "C",
-      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    "answer": "B",
+    "explanation": "Explaining concepts to peers reinforces understanding and retention."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q015",
+    "question": "During training, it’s said, 'Every assessment carries a message about what matters.' What does this imply?",
+    "options": {
+      "A": "Only grades matter to students.",
+      "B": "Assessments influence student focus.",
+      "C": "Exams should cover all chapters equally.",
+      "D": "Teachers shouldn't prepare assessments."
     },
-    {
-      "id": "Education_Verbal_Hard_Q016",
-      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
-      "options": {
-        "A": "The manager is against any new ideas.",
-        "B": "Risk-taking is encouraged over stability.",
-        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
-        "D": "Core operations are irrelevant in decision-making."
-      },
-      "answer": "C",
-      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    "answer": "B",
+    "explanation": "What is assessed signals what is valued, shaping how students study and what they prioritize."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q016",
+    "question": "A student says, 'I’m not good at math, so I’ll never be.' What cognitive pattern is displayed here?",
+    "options": {
+      "A": "Growth mindset",
+      "B": "Fixed mindset",
+      "C": "Metacognition",
+      "D": "Critical thinking"
     },
-    {
-      "id": "Education_Verbal_Hard_Q017",
-      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
-      "options": {
-        "A": "The manager is against any new ideas.",
-        "B": "Risk-taking is encouraged over stability.",
-        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
-        "D": "Core operations are irrelevant in decision-making."
-      },
-      "answer": "C",
-      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    "answer": "B",
+    "explanation": "Believing abilities are static reflects a fixed mindset."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q017",
+    "question": "A school newsletter says, 'Parental involvement boosts student achievement.' What action supports this idea?",
+    "options": {
+      "A": "Parents ignore school events.",
+      "B": "Parents only meet during exams.",
+      "C": "Parents collaborate with teachers regularly.",
+      "D": "Parents monitor grades but don’t communicate."
     },
-    {
-      "id": "Education_Verbal_Hard_Q018",
-      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
-      "options": {
-        "A": "The manager is against any new ideas.",
-        "B": "Risk-taking is encouraged over stability.",
-        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
-        "D": "Core operations are irrelevant in decision-making."
-      },
-      "answer": "C",
-      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    "answer": "C",
+    "explanation": "Consistent, cooperative parent-teacher interaction supports student success."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q018",
+    "question": "A policymaker says, 'Digital literacy is as essential as reading and writing.' What policy best aligns with this view?",
+    "options": {
+      "A": "Remove computers from classrooms.",
+      "B": "Offer coding and media literacy from early years.",
+      "C": "Ban smartphones in all schools.",
+      "D": "Focus only on textbooks."
     },
-    {
-      "id": "Education_Verbal_Hard_Q019",
-      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
-      "options": {
-        "A": "The manager is against any new ideas.",
-        "B": "Risk-taking is encouraged over stability.",
-        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
-        "D": "Core operations are irrelevant in decision-making."
-      },
-      "answer": "C",
-      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
+    "answer": "B",
+    "explanation": "Integrating digital literacy from early education reflects its critical importance."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q019",
+    "question": "In a reflection, a teacher writes, 'Assessment must be a learning tool, not a sorting mechanism.' What does this mean?",
+    "options": {
+      "A": "Assessment should rank students.",
+      "B": "Assessment should motivate and inform learning.",
+      "C": "Students should be streamed early.",
+      "D": "Grades are the only outcome that matters."
     },
-    {
-      "id": "Education_Verbal_Hard_Q020",
-      "question": "In a team meeting, a manager says, 'We value innovation, but we must avoid risks that compromise our core operations.' What is the best interpretation of this statement?",
-      "options": {
-        "A": "The manager is against any new ideas.",
-        "B": "Risk-taking is encouraged over stability.",
-        "C": "Innovation is welcomed only if it doesn\u2019t disrupt essential functions.",
-        "D": "Core operations are irrelevant in decision-making."
-      },
-      "answer": "C",
-      "explanation": "The manager promotes innovation as long as it doesn\u2019t negatively affect fundamental operations."
-    }
-  ]
+    "answer": "B",
+    "explanation": "The teacher believes assessment should guide improvement, not categorize performance."
+  },
+  {
+    "id": "Education_Verbal_Hard_Q020",
+    "question": "During a school debate, a student argues, 'Education should teach how to think, not what to think.' What skill is emphasized here?",
+    "options": {
+      "A": "Obedience",
+      "B": "Conformity",
+      "C": "Critical thinking",
+      "D": "Memorization"
+    },
+    "answer": "C",
+    "explanation": "The statement highlights fostering independent and critical thinking over rote learning."
+  }
+]

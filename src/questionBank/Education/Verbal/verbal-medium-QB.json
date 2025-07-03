@@ -1,242 +1,242 @@
 [
-    {
-      "id": "Education_Verbal_Medium_Q001",
-      "question": "Identify the grammatically correct sentence.",
-      "options": {
-        "A": "She don\u2019t like pizza.",
-        "B": "He go to work every day.",
-        "C": "They was late again.",
-        "D": "We have finished the task."
-      },
-      "answer": "D",
-      "explanation": "\u2018We have finished the task\u2019 is grammatically correct. Others contain subject-verb agreement errors."
+  {
+    "id": "Education_Verbal_Medium_Q001",
+    "question": "Select the correct sentence.",
+    "options": {
+      "A": "He don't have the documents.",
+      "B": "They goes to the same gym.",
+      "C": "She doesn't agree with the proposal.",
+      "D": "I has never seen him before."
     },
-    {
-      "id": "Education_Verbal_Medium_Q002",
-      "question": "Which word is the best antonym for \u2018transparent\u2019?",
-      "options": {
-        "A": "clear",
-        "B": "opaque",
-        "C": "visible",
-        "D": "pure"
-      },
-      "answer": "B",
-      "explanation": "\u2018Opaque\u2019 is the opposite of \u2018transparent\u2019 because it means not allowing light to pass through."
+    "answer": "C",
+    "explanation": "'She doesn't agree with the proposal' is the correct subject-verb agreement."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q002",
+    "question": "Choose the best synonym for 'collaborate'.",
+    "options": {
+      "A": "compete",
+      "B": "oppose",
+      "C": "cooperate",
+      "D": "interfere"
     },
-    {
-      "id": "Education_Verbal_Medium_Q003",
-      "question": "Choose the most appropriate synonym for the underlined word in the sentence: 'The manager was known for his *astute* decision-making.'",
-      "options": {
-        "A": "foolish",
-        "B": "sharp",
-        "C": "naive",
-        "D": "lazy"
-      },
-      "answer": "B",
-      "explanation": "\u2018Astute\u2019 means having or showing an ability to accurately assess situations. \u2018Sharp\u2019 is the closest synonym."
+    "answer": "C",
+    "explanation": "'Collaborate' means to work together; 'cooperate' is the closest synonym."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q003",
+    "question": "Which word is the best antonym for 'empathy'?",
+    "options": {
+      "A": "sympathy",
+      "B": "understanding",
+      "C": "indifference",
+      "D": "compassion"
     },
-    {
-      "id": "Education_Verbal_Medium_Q004",
-      "question": "Which sentence uses the word \u2018ensure\u2019 correctly?",
-      "options": {
-        "A": "He ensure the light was off.",
-        "B": "Please ensure you lock the door.",
-        "C": "She ensure to eat breakfast.",
-        "D": "They ensure to call."
-      },
-      "answer": "B",
-      "explanation": "\u2018Ensure\u2019 means to make certain. Sentence B uses the verb form correctly."
+    "answer": "C",
+    "explanation": "'Indifference' is the opposite of 'empathy', indicating lack of concern."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q004",
+    "question": "Choose the correctly punctuated sentence.",
+    "options": {
+      "A": "He said, the report is due tomorrow.",
+      "B": "He said the report is due tomorrow.",
+      "C": "He said, 'The report is due tomorrow.'",
+      "D": "He said 'the report is due tomorrow'."
     },
-    {
-      "id": "Education_Verbal_Medium_Q005",
-      "question": "Which word is the best antonym for \u2018transparent\u2019?",
-      "options": {
-        "A": "clear",
-        "B": "opaque",
-        "C": "visible",
-        "D": "pure"
-      },
-      "answer": "B",
-      "explanation": "\u2018Opaque\u2019 is the opposite of \u2018transparent\u2019 because it means not allowing light to pass through."
+    "answer": "C",
+    "explanation": "Quotation marks are used properly in option C."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q005",
+    "question": "What is the correct form of the verb: 'Each of the employees ___ responsible.'?",
+    "options": {
+      "A": "are",
+      "B": "is",
+      "C": "were",
+      "D": "be"
     },
-    {
-      "id": "Education_Verbal_Medium_Q006",
-      "question": "Choose the sentence with proper punctuation.",
-      "options": {
-        "A": "My friend, who lives in New York is visiting.",
-        "B": "Its raining heavily today.",
-        "C": "We brought sandwiches, drinks, and snacks.",
-        "D": "Where are you going."
-      },
-      "answer": "C",
-      "explanation": "Option C correctly uses commas in a list."
+    "answer": "B",
+    "explanation": "'Each' is singular, so 'is' is correct."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q006",
+    "question": "Select the correct sentence.",
+    "options": {
+      "A": "Neither John nor his friends is coming.",
+      "B": "Neither John nor his friends are coming.",
+      "C": "Either the staff or the manager are available.",
+      "D": "Neither she or he know the answer."
     },
-    {
-      "id": "Education_Verbal_Medium_Q007",
-      "question": "Choose the sentence with proper punctuation.",
-      "options": {
-        "A": "My friend, who lives in New York is visiting.",
-        "B": "Its raining heavily today.",
-        "C": "We brought sandwiches, drinks, and snacks.",
-        "D": "Where are you going."
-      },
-      "answer": "C",
-      "explanation": "Option C correctly uses commas in a list."
+    "answer": "B",
+    "explanation": "With 'neither...nor', the verb agrees with the subject closest to it: 'friends are coming'."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q007",
+    "question": "Choose the word that is most opposite in meaning to 'diligent'.",
+    "options": {
+      "A": "careless",
+      "B": "focused",
+      "C": "thorough",
+      "D": "determined"
     },
-    {
-      "id": "Education_Verbal_Medium_Q008",
-      "question": "Which word is the best antonym for \u2018transparent\u2019?",
-      "options": {
-        "A": "clear",
-        "B": "opaque",
-        "C": "visible",
-        "D": "pure"
-      },
-      "answer": "B",
-      "explanation": "\u2018Opaque\u2019 is the opposite of \u2018transparent\u2019 because it means not allowing light to pass through."
+    "answer": "A",
+    "explanation": "'Careless' is the antonym of 'diligent'."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q008",
+    "question": "Identify the sentence with correct grammar.",
+    "options": {
+      "A": "He walk to the station daily.",
+      "B": "She do the reports every week.",
+      "C": "They have completed the project.",
+      "D": "I am go to the office."
     },
-    {
-      "id": "Education_Verbal_Medium_Q009",
-      "question": "Which sentence uses the word \u2018ensure\u2019 correctly?",
-      "options": {
-        "A": "He ensure the light was off.",
-        "B": "Please ensure you lock the door.",
-        "C": "She ensure to eat breakfast.",
-        "D": "They ensure to call."
-      },
-      "answer": "B",
-      "explanation": "\u2018Ensure\u2019 means to make certain. Sentence B uses the verb form correctly."
+    "answer": "C",
+    "explanation": "'They have completed the project' is correct; others have tense/verb issues."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q009",
+    "question": "Select the correct meaning of 'initiative' in this context: 'She showed great initiative at work.'",
+    "options": {
+      "A": "delay",
+      "B": "hesitation",
+      "C": "leadership",
+      "D": "confusion"
     },
-    {
-      "id": "Education_Verbal_Medium_Q010",
-      "question": "Choose the most appropriate synonym for the underlined word in the sentence: 'The manager was known for his *astute* decision-making.'",
-      "options": {
-        "A": "foolish",
-        "B": "sharp",
-        "C": "naive",
-        "D": "lazy"
-      },
-      "answer": "B",
-      "explanation": "\u2018Astute\u2019 means having or showing an ability to accurately assess situations. \u2018Sharp\u2019 is the closest synonym."
+    "answer": "C",
+    "explanation": "'Initiative' means ability to act independently, showing leadership."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q010",
+    "question": "Which word means the opposite of 'flexible'?",
+    "options": {
+      "A": "rigid",
+      "B": "adaptable",
+      "C": "versatile",
+      "D": "open"
     },
-    {
-      "id": "Education_Verbal_Medium_Q011",
-      "question": "Which sentence uses the word \u2018ensure\u2019 correctly?",
-      "options": {
-        "A": "He ensure the light was off.",
-        "B": "Please ensure you lock the door.",
-        "C": "She ensure to eat breakfast.",
-        "D": "They ensure to call."
-      },
-      "answer": "B",
-      "explanation": "\u2018Ensure\u2019 means to make certain. Sentence B uses the verb form correctly."
+    "answer": "A",
+    "explanation": "'Rigid' is the antonym of 'flexible'."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q011",
+    "question": "Choose the best synonym for 'precise'.",
+    "options": {
+      "A": "rough",
+      "B": "vague",
+      "C": "exact",
+      "D": "loose"
     },
-    {
-      "id": "Education_Verbal_Medium_Q012",
-      "question": "Choose the sentence with proper punctuation.",
-      "options": {
-        "A": "My friend, who lives in New York is visiting.",
-        "B": "Its raining heavily today.",
-        "C": "We brought sandwiches, drinks, and snacks.",
-        "D": "Where are you going."
-      },
-      "answer": "C",
-      "explanation": "Option C correctly uses commas in a list."
+    "answer": "C",
+    "explanation": "'Precise' means exact or accurate."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q012",
+    "question": "Which sentence is written in active voice?",
+    "options": {
+      "A": "The presentation was delivered by Anna.",
+      "B": "Anna delivered the presentation.",
+      "C": "The report was completed by the team.",
+      "D": "The task was done efficiently."
     },
-    {
-      "id": "Education_Verbal_Medium_Q013",
-      "question": "Identify the grammatically correct sentence.",
-      "options": {
-        "A": "She don\u2019t like pizza.",
-        "B": "He go to work every day.",
-        "C": "They was late again.",
-        "D": "We have finished the task."
-      },
-      "answer": "D",
-      "explanation": "\u2018We have finished the task\u2019 is grammatically correct. Others contain subject-verb agreement errors."
+    "answer": "B",
+    "explanation": "'Anna delivered the presentation' is in active voice."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q013",
+    "question": "Select the sentence that uses the correct tense.",
+    "options": {
+      "A": "He was finishing the task yesterday.",
+      "B": "She completes the reports last week.",
+      "C": "I had written the report before he arrived.",
+      "D": "We is going to the site tomorrow."
     },
-    {
-      "id": "Education_Verbal_Medium_Q014",
-      "question": "Which sentence uses the word \u2018ensure\u2019 correctly?",
-      "options": {
-        "A": "He ensure the light was off.",
-        "B": "Please ensure you lock the door.",
-        "C": "She ensure to eat breakfast.",
-        "D": "They ensure to call."
-      },
-      "answer": "B",
-      "explanation": "\u2018Ensure\u2019 means to make certain. Sentence B uses the verb form correctly."
+    "answer": "C",
+    "explanation": "Past perfect tense is used correctly in C."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q014",
+    "question": "Which of the following is a suitable synonym for 'innovative'?",
+    "options": {
+      "A": "conventional",
+      "B": "traditional",
+      "C": "creative",
+      "D": "routine"
     },
-    {
-      "id": "Education_Verbal_Medium_Q015",
-      "question": "Choose the sentence with proper punctuation.",
-      "options": {
-        "A": "My friend, who lives in New York is visiting.",
-        "B": "Its raining heavily today.",
-        "C": "We brought sandwiches, drinks, and snacks.",
-        "D": "Where are you going."
-      },
-      "answer": "C",
-      "explanation": "Option C correctly uses commas in a list."
+    "answer": "C",
+    "explanation": "'Creative' closely matches 'innovative'."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q015",
+    "question": "Choose the sentence with proper use of 'its' or 'it's'.",
+    "options": {
+      "A": "Its a great day.",
+      "B": "The company changed it's policy.",
+      "C": "It\u2019s important to be on time.",
+      "D": "Its' location is unknown."
     },
-    {
-      "id": "Education_Verbal_Medium_Q016",
-      "question": "Identify the grammatically correct sentence.",
-      "options": {
-        "A": "She don\u2019t like pizza.",
-        "B": "He go to work every day.",
-        "C": "They was late again.",
-        "D": "We have finished the task."
-      },
-      "answer": "D",
-      "explanation": "\u2018We have finished the task\u2019 is grammatically correct. Others contain subject-verb agreement errors."
+    "answer": "C",
+    "explanation": "'It's' means 'it is', used correctly in C."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q016",
+    "question": "Identify the most appropriate antonym for 'assertive'.",
+    "options": {
+      "A": "confident",
+      "B": "passive",
+      "C": "outspoken",
+      "D": "decisive"
     },
-    {
-      "id": "Education_Verbal_Medium_Q017",
-      "question": "Which word is the best antonym for \u2018transparent\u2019?",
-      "options": {
-        "A": "clear",
-        "B": "opaque",
-        "C": "visible",
-        "D": "pure"
-      },
-      "answer": "B",
-      "explanation": "\u2018Opaque\u2019 is the opposite of \u2018transparent\u2019 because it means not allowing light to pass through."
+    "answer": "B",
+    "explanation": "'Passive' is the opposite of 'assertive'."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q017",
+    "question": "Choose the correct sentence.",
+    "options": {
+      "A": "Me and Sarah are attending the meeting.",
+      "B": "Sarah and me is attending the meeting.",
+      "C": "Sarah and I are attending the meeting.",
+      "D": "I and Sarah is attending the meeting."
     },
-    {
-      "id": "Education_Verbal_Medium_Q018",
-      "question": "Choose the most appropriate synonym for the underlined word in the sentence: 'The manager was known for his *astute* decision-making.'",
-      "options": {
-        "A": "foolish",
-        "B": "sharp",
-        "C": "naive",
-        "D": "lazy"
-      },
-      "answer": "B",
-      "explanation": "\u2018Astute\u2019 means having or showing an ability to accurately assess situations. \u2018Sharp\u2019 is the closest synonym."
+    "answer": "C",
+    "explanation": "'Sarah and I are attending the meeting' is grammatically correct."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q018",
+    "question": "Which sentence is punctuated correctly?",
+    "options": {
+      "A": "Please bring notebooks pens pencils and erasers.",
+      "B": "Please bring notebooks, pens, pencils, and erasers.",
+      "C": "Please bring notebooks pens, pencils and erasers.",
+      "D": "Please bring, notebooks pens pencils and erasers."
     },
-    {
-      "id": "Education_Verbal_Medium_Q019",
-      "question": "Choose the most appropriate synonym for the underlined word in the sentence: 'The manager was known for his *astute* decision-making.'",
-      "options": {
-        "A": "foolish",
-        "B": "sharp",
-        "C": "naive",
-        "D": "lazy"
-      },
-      "answer": "B",
-      "explanation": "\u2018Astute\u2019 means having or showing an ability to accurately assess situations. \u2018Sharp\u2019 is the closest synonym."
+    "answer": "B",
+    "explanation": "Option B uses proper punctuation for lists."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q019",
+    "question": "Select the best synonym for 'delegate' as used in the workplace.",
+    "options": {
+      "A": "control",
+      "B": "assign",
+      "C": "avoid",
+      "D": "delay"
     },
-    {
-      "id": "Education_Verbal_Medium_Q020",
-      "question": "Which word is the best antonym for \u2018transparent\u2019?",
-      "options": {
-        "A": "clear",
-        "B": "opaque",
-        "C": "visible",
-        "D": "pure"
-      },
-      "answer": "B",
-      "explanation": "\u2018Opaque\u2019 is the opposite of \u2018transparent\u2019 because it means not allowing light to pass through."
-    }
-  ]
+    "answer": "B",
+    "explanation": "'Delegate' means to assign responsibilities or tasks to others."
+  },
+  {
+    "id": "Education_Verbal_Medium_Q020",
+    "question": "Which sentence is correct?",
+    "options": {
+      "A": "She have the required skills.",
+      "B": "The team work together efficiently.",
+      "C": "He speaks three languages fluently.",
+      "D": "They was late to the meeting."
+    },
+    "answer": "C",
+    "explanation": "'He speaks three languages fluently' has correct grammar and subject-verb agreement."
+  }
+]
