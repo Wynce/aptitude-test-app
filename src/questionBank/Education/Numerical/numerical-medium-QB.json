@@ -1,7 +1,7 @@
 [
   {
     "id": "Education_Numerical_Medium_Q001",
-    "question": "A school plans to increase its student intake by 15% next year. If the current enrollment is 1,200 students, how many students are expected next year? (Scenario 1)",
+    "question": "A school plans to increase its student intake by 15% next year. If the current enrollment is 1,200 students, how many students are expected next year?",
     "options": {
       "A": "1,320",
       "B": "1,350",
@@ -25,7 +25,7 @@
   },
   {
     "id": "Education_Numerical_Medium_Q003",
-    "question": "A textbook originally priced at RM80 is being offered at 25% discount. What is the discounted price? (Scenario 3)",
+    "question": "A textbook originally priced at RM80 is being offered at 25% discount. What is the discounted price?",
     "options": {
       "A": "RM55",
       "B": "RM58",
@@ -54,14 +54,14 @@
       "A": "14",
       "B": "16",
       "C": "18",
-      "D": "20"
+      "D": "24"
     },
     "answer": "B",
     "explanation": "60% of 40 = 24 girls, so 40 - 24 = 16 boys"
   },
   {
     "id": "Education_Numerical_Medium_Q006",
-    "question": "A university library receives a government grant of RM120,000 to be spent equally over 8 departments. How much does each department get? (Scenario 6)",
+    "question": "A university library receives a government grant of RM120,000 to be spent equally over 8 departments. How much does each department get?",
     "options": {
       "A": "RM14,000",
       "B": "RM15,000",
@@ -85,7 +85,7 @@
   },
   {
     "id": "Education_Numerical_Medium_Q008",
-    "question": "A tuition centre earned RM9,600 in four months. If earnings increased by RM200 each month, how much did it earn in the fourth month? (Scenario 8)",
+    "question": "A tuition centre earned RM9,600 in four months. If earnings increased by RM200 each month, how much did it earn in the fourth month?",
     "options": {
       "A": "RM2,700",
       "B": "RM2,900",
@@ -181,7 +181,7 @@
   },
   {
     "id": "Education_Numerical_Medium_Q016",
-    "question": "In a classroom, the student-to-chair ratio is 5:6. If there are 150 students, how many chairs are there? (Scenario 16)",
+    "question": "In a classroom, the student-to-chair ratio is 5:6. If there are 150 students, how many chairs are there?",
     "options": {
       "A": "160",
       "B": "170",
