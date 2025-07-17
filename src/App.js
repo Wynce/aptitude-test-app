@@ -187,7 +187,7 @@ const handleStartTest = async ({ industries, category, difficulty }) => {
     setIsAutoSubmitting(false);
     setCurrentSelection("");
   };
-  
+
   
 
   // ==============================

@@ -174,7 +174,7 @@
       "A": "Its a great day.",
       "B": "The company changed it's policy.",
       "C": "It\u2019s important to be on time.",
-      "D": "Its' location is unknown."
+      "D": "Its location is unknown."
     },
     "answer": "C",
     "explanation": "'It's' means 'it is', used correctly in C."

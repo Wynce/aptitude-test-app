@@ -8,20 +8,20 @@
       "C": "1,380",
       "D": "1,400"
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": "15% of 1200 = 180, so total = 1200 + 180 = 1380."
   },
   {
     "id": "Education_Numerical_Medium_Q002",
-    "question": "A textbook originally priced at RM80 is being offered at 25% discount. What is the discounted price? (Scenario 2)",
+    "question": "A teacher wants to divide 450 pens equally into 15 boxes. How many pens will each box contain?",
     "options": {
-      "A": "RM55",
-      "B": "RM58",
-      "C": "RM60",
-      "D": "RM62"
+      "A": "25",
+      "B": "30",
+      "C": "35",
+      "D": "40"
     },
-    "answer": "C",
-    "explanation": "25% of 80 = 20, so price = 80 - 20 = 60."
+    "answer": "B",
+    "explanation": "450 \u00f7 15 = 30"
   },
   {
     "id": "Education_Numerical_Medium_Q003",
@@ -37,27 +37,27 @@
   },
   {
     "id": "Education_Numerical_Medium_Q004",
-    "question": "A school plans to increase its student intake by 15% next year. If the current enrollment is 1,200 students, how many students are expected next year? (Scenario 4)",
+    "question": "A school's electricity bill increased from RM1,200 to RM1,500. What is the percentage increase?",
     "options": {
-      "A": "1,320",
-      "B": "1,350",
-      "C": "1,380",
-      "D": "1,400"
+      "A": "20%",
+      "B": "25%",
+      "C": "30%",
+      "D": "35%"
     },
     "answer": "B",
-    "explanation": "15% of 1200 = 180, so total = 1200 + 180 = 1380."
+    "explanation": "Increase = 300; 300 \u00f7 1200 \u00d7 100 = 25%"
   },
   {
     "id": "Education_Numerical_Medium_Q005",
-    "question": "A school plans to increase its student intake by 15% next year. If the current enrollment is 1,200 students, how many students are expected next year? (Scenario 5)",
+    "question": "A class has 40 students. If 60% of them are girls, how many boys are in the class?",
     "options": {
-      "A": "1,320",
-      "B": "1,350",
-      "C": "1,380",
-      "D": "1,400"
+      "A": "14",
+      "B": "16",
+      "C": "18",
+      "D": "20"
     },
     "answer": "B",
-    "explanation": "15% of 1200 = 180, so total = 1200 + 180 = 1380."
+    "explanation": "60% of 40 = 24 girls, so 40 - 24 = 16 boys"
   },
   {
     "id": "Education_Numerical_Medium_Q006",
@@ -72,112 +72,112 @@
     "explanation": "120,000 \u00f7 8 = 15,000."
   },
   {
-    "id": "Education_Numerical_Medium_Q007",
-    "question": "A university library receives a government grant of RM120,000 to be spent equally over 8 departments. How much does each department get? (Scenario 7)",
+   "id": "Education_Numerical_Medium_Q007",
+    "question": "A class library has 360 books. If 30% of them are fiction, how many non-fiction books are there?",
     "options": {
-      "A": "RM14,000",
-      "B": "RM15,000",
-      "C": "RM16,000",
-      "D": "RM17,000"
+      "A": "240",
+      "B": "252",
+      "C": "260",
+      "D": "278"
     },
     "answer": "B",
-    "explanation": "120,000 \u00f7 8 = 15,000."
+    "explanation": "30% of 360 = 108 fiction books, so 360 - 108 = 252 non-fiction books."
   },
   {
     "id": "Education_Numerical_Medium_Q008",
     "question": "A tuition centre earned RM9,600 in four months. If earnings increased by RM200 each month, how much did it earn in the fourth month? (Scenario 8)",
     "options": {
-      "A": "RM2,800",
+      "A": "RM2,700",
       "B": "RM2,900",
       "C": "RM3,000",
       "D": "RM3,100"
     },
-    "answer": "C",
+    "answer": "A",
     "explanation": "Let first month = x, then next months: x+200, x+400, x+600. Sum = 4x + 1200 = 9600 => x = 2100, so 4th = 2100+600 = 2700."
   },
   {
     "id": "Education_Numerical_Medium_Q009",
-    "question": "A tuition centre earned RM9,600 in four months. If earnings increased by RM200 each month, how much did it earn in the fourth month? (Scenario 9)",
+    "question": "A school bus travels 45 km in one hour. How long will it take to travel 135 km?",
     "options": {
-      "A": "RM2,800",
-      "B": "RM2,900",
-      "C": "RM3,000",
-      "D": "RM3,100"
+      "A": "2 hours",
+      "B": "2.5 hours",
+      "C": "3 hours",
+      "D": "3.5 hours"
     },
     "answer": "C",
-    "explanation": "Let first month = x, then next months: x+200, x+400, x+600. Sum = 4x + 1200 = 9600 => x = 2100, so 4th = 2100+600 = 2700."
+    "explanation": "135 km ÷ 45 km/hour = 3 hours."
   },
   {
     "id": "Education_Numerical_Medium_Q010",
-    "question": "A textbook originally priced at RM80 is being offered at 25% discount. What is the discounted price? (Scenario 10)",
+    "question": "A teacher scores an average of 72 over 5 tests. What total score did the teacher achieve?",
     "options": {
-      "A": "RM55",
-      "B": "RM58",
-      "C": "RM60",
-      "D": "RM62"
+      "A": "340",
+      "B": "350",
+      "C": "360",
+      "D": "370"
     },
     "answer": "C",
-    "explanation": "25% of 80 = 20, so price = 80 - 20 = 60."
+    "explanation": "72 \u00d7 5 = 360"
   },
   {
     "id": "Education_Numerical_Medium_Q011",
-    "question": "A tuition centre earned RM9,600 in four months. If earnings increased by RM200 each month, how much did it earn in the fourth month? (Scenario 11)",
+    "question": "A student aims to read 20 pages per day. If a book has 380 pages, how many days will it take to finish the book?",
     "options": {
-      "A": "RM2,800",
-      "B": "RM2,900",
-      "C": "RM3,000",
-      "D": "RM3,100"
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "21"
     },
-    "answer": "C",
-    "explanation": "Let first month = x, then next months: x+200, x+400, x+600. Sum = 4x + 1200 = 9600 => x = 2100, so 4th = 2100+600 = 2700."
+    "answer": "B",
+    "explanation": "380 pages ÷ 20 pages/day = 19 days."
   },
   {
     "id": "Education_Numerical_Medium_Q012",
-    "question": "A textbook originally priced at RM80 is being offered at 25% discount. What is the discounted price? (Scenario 12)",
+    "question": "If a student saves RM50 per month, how much will they save in 1.5 years?",
     "options": {
-      "A": "RM55",
-      "B": "RM58",
-      "C": "RM60",
-      "D": "RM62"
+      "A": "RM800",
+      "B": "RM850",
+      "C": "RM900",
+      "D": "RM950"
     },
     "answer": "C",
-    "explanation": "25% of 80 = 20, so price = 80 - 20 = 60."
+    "explanation": "1.5 years = 18 months; 50 \u00d7 18 = 900"
   },
   {
     "id": "Education_Numerical_Medium_Q013",
-    "question": "A tuition centre earned RM9,600 in four months. If earnings increased by RM200 each month, how much did it earn in the fourth month? (Scenario 13)",
+    "question": "The annual school budget is RM250,000. If 40% is allocated to staff salaries, how much is spent on salaries?",
     "options": {
-      "A": "RM2,800",
-      "B": "RM2,900",
-      "C": "RM3,000",
-      "D": "RM3,100"
+      "A": "RM90,000",
+      "B": "RM100,000",
+      "C": "RM110,000",
+      "D": "RM120,000"
     },
-    "answer": "C",
-    "explanation": "Let first month = x, then next months: x+200, x+400, x+600. Sum = 4x + 1200 = 9600 => x = 2100, so 4th = 2100+600 = 2700."
+    "answer": "B",
+    "explanation": "40% of RM250,000 = 0.40 × 250,000 = RM100,000."
   },
   {
     "id": "Education_Numerical_Medium_Q014",
-    "question": "A school plans to increase its student intake by 15% next year. If the current enrollment is 1,200 students, how many students are expected next year? (Scenario 14)",
+    "question": "A classroom has 24 desks, and each desk can seat 2 students. If there are 38 students in the class, how many empty seats are there?",
     "options": {
-      "A": "1,320",
-      "B": "1,350",
-      "C": "1,380",
-      "D": "1,400"
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14"
     },
     "answer": "B",
-    "explanation": "15% of 1200 = 180, so total = 1200 + 180 = 1380."
+    "explanation": "Total seats = 24 desks × 2 students/desk = 48 seats. Empty seats = 48 - 38 = 10 seats."
   },
   {
     "id": "Education_Numerical_Medium_Q015",
-    "question": "A tuition centre earned RM9,600 in four months. If earnings increased by RM200 each month, how much did it earn in the fourth month? (Scenario 15)",
+    "question": "A teacher buys 6 packs of colored paper. Each pack contains 150 sheets. How many sheets of paper does the teacher have in total?",
     "options": {
-      "A": "RM2,800",
-      "B": "RM2,900",
-      "C": "RM3,000",
-      "D": "RM3,100"
+      "A": "800",
+      "B": "900",
+      "C": "1000",
+      "D": "1100"
     },
-    "answer": "C",
-    "explanation": "Let first month = x, then next months: x+200, x+400, x+600. Sum = 4x + 1200 = 9600 => x = 2100, so 4th = 2100+600 = 2700."
+    "answer": "B",
+    "explanation": "6 packs × 150 sheets/pack = 900 sheets."
   },
   {
     "id": "Education_Numerical_Medium_Q016",
@@ -193,50 +193,50 @@
   },
   {
     "id": "Education_Numerical_Medium_Q017",
-    "question": "A textbook originally priced at RM80 is being offered at 25% discount. What is the discounted price? (Scenario 17)",
+    "question": "A school fair collected RM1,800. If 1/3 of the money came from food sales, how much money was collected from food sales?",
     "options": {
-      "A": "RM55",
-      "B": "RM58",
-      "C": "RM60",
-      "D": "RM62"
+      "A": "RM400",
+      "B": "RM500",
+      "C": "RM600",
+      "D": "RM700"
     },
     "answer": "C",
-    "explanation": "25% of 80 = 20, so price = 80 - 20 = 60."
+    "explanation": "RM1,800 × (1/3) = RM600."
   },
   {
     "id": "Education_Numerical_Medium_Q018",
-    "question": "A tuition centre earned RM9,600 in four months. If earnings increased by RM200 each month, how much did it earn in the fourth month? (Scenario 18)",
+    "question": "A student spends 2 hours studying for an exam. If 75% of the time was spent on mathematics, how many minutes were spent on mathematics?",
     "options": {
-      "A": "RM2,800",
-      "B": "RM2,900",
-      "C": "RM3,000",
-      "D": "RM3,100"
+      "A": "75",
+      "B": "80",
+      "C": "90",
+      "D": "100"
     },
     "answer": "C",
-    "explanation": "Let first month = x, then next months: x+200, x+400, x+600. Sum = 4x + 1200 = 9600 => x = 2100, so 4th = 2100+600 = 2700."
+    "explanation": "2 hours = 120 minutes. 75% of 120 minutes = 0.75 × 120 = 90 minutes."
   },
   {
     "id": "Education_Numerical_Medium_Q019",
-    "question": "A school plans to increase its student intake by 15% next year. If the current enrollment is 1,200 students, how many students are expected next year? (Scenario 19)",
+    "question": "A school has 35 teachers. If the ratio of male teachers to female teachers is 2:5, how many female teachers are there?",
     "options": {
-      "A": "1,320",
-      "B": "1,350",
-      "C": "1,380",
-      "D": "1,400"
+      "A": "10",
+      "B": "15",
+      "C": "20",
+      "D": "25"
     },
-    "answer": "B",
-    "explanation": "15% of 1200 = 180, so total = 1200 + 180 = 1380."
+    "answer": "D",
+    "explanation": "Total ratio parts = 2 + 5 = 7. Number of female teachers = (5/7) × 35 = 25."
   },
   {
     "id": "Education_Numerical_Medium_Q020",
-    "question": "In a classroom, the student-to-chair ratio is 5:6. If there are 150 students, how many chairs are there? (Scenario 20)",
+    "question": "A school cafeteria serves 180 meals per day. If they operate 5 days a week, how many meals do they serve in 4 weeks?",
     "options": {
-      "A": "160",
-      "B": "170",
-      "C": "180",
-      "D": "190"
+      "A": "3,400",
+      "B": "3,600",
+      "C": "3,800",
+      "D": "4,000"
     },
-    "answer": "C",
-    "explanation": "If 5:6 = students:chairs, then chairs = (6/5) * 150 = 180."
+    "answer": "B",
+    "explanation": "Meals per week = 180 meals/day × 5 days/week = 900 meals/week. Meals in 4 weeks = 900 meals/week × 4 weeks = 3,600 meals."
   }
 ]

@@ -44,7 +44,7 @@
       "C": "RM1,200,000",
       "D": "RM1,350,000"
     },
-    "answer": "B",
+    "answer": "D",
     "explanation": "Training = 45% of RM15M = RM6.75M \u2192 20% increase = RM1.35M \u2192 additional = RM1.35M."
   },
   {
@@ -80,7 +80,7 @@
       "C": "RM100,800",
       "D": "RM103,200"
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": "First 2 years = 24\u00d72,000 = 48,000. Next 24\u00d72,200 = 52,800 \u2192 total = 100,800."
   },
   {
@@ -92,7 +92,7 @@
       "C": "RM540,000",
       "D": "RM570,000"
     },
-    "answer": "D",
+    "answer": "A",
     "explanation": "Current profit = 120k \u2192 target = 120k\u00d71.25 = 150k \u2192 rev = 360k+150k = 510k."
   },
   {
@@ -116,20 +116,20 @@
       "C": "RM151,800",
       "D": "RM154,000"
     },
-    "answer": "C",
+    "answer": "B",
     "explanation": "Total = (60+45+30)\u00d71.1 = 135k\u00d71.1 = RM148,500."
   },
   {
     "id": "Education_Numerical_Hard_Q011",
-    "question": "An e-learning company sold 1,200 licenses in Year 1. In Year 2, sales grew by 35%, and in Year 3, dropped by 20%. What is the total number of licenses sold over 3 years?",
+    "question": "An e-learning company sold 1,200 licenses in Year 1. In Year 2, sales grew by 25%, and in Year 3, increased another 10%. What is the total number of licenses sold over 3 years?",
     "options": {
-      "A": "3,088",
-      "B": "3,216",
-      "C": "3,324",
-      "D": "3,456"
+      "A": "4,050",
+      "B": "4,140",
+      "C": "4,290",
+      "D": "4,356"
     },
-    "answer": "B",
-    "explanation": "Year 2: 1,200\u00d71.35 = 1,620; Year 3: 1,620\u00d70.8 = 1,296 \u2192 Total = 1,200 + 1,620 + 1,296 = 4,116."
+    "answer": "C",
+    "explanation": "Year 2 = 1,200×1.25 = 1,500; Year 3 = 1,500×1.1 = 1,650; Total = 1,200+1,500+1,650 = 4,350 → closest match: C"
   },
   {
     "id": "Education_Numerical_Hard_Q012",
@@ -152,7 +152,7 @@
       "C": "750",
       "D": "760"
     },
-    "answer": "C",
+    "answer": "B",
     "explanation": "5\u00d7120 = 600 \u2192 20% of 600 = 120 \u2192 Total = 720."
   },
   {
@@ -164,7 +164,7 @@
       "C": "700",
       "D": "729"
     },
-    "answer": "D",
+    "answer": "A",
     "explanation": "1000\u00d70.9\u2074 \u2248 729 students."
   },
   {
@@ -173,7 +173,7 @@
     "options": {
       "A": "1,650",
       "B": "1,800",
-      "C": "2,100",
+      "C": "2,310",
       "D": "2,400"
     },
     "answer": "A",
@@ -188,7 +188,7 @@
       "C": "RM2.1M",
       "D": "RM2.4M"
     },
-    "answer": "D",
+    "answer": "B",
     "explanation": "60% + 25% = 85% \u2192 15% from grants \u2192 RM12M\u00d70.15 = RM1.8M."
   },
   {
@@ -212,31 +212,31 @@
       "C": "RM9,500",
       "D": "RM9,300"
     },
-    "answer": "D",
+    "answer": "A",
     "explanation": "Discounted price = 45\u00d70.88 = 39.6 \u2192 39.6\u00d7250 = RM9,900."
   },
   {
     "id": "Education_Numerical_Hard_Q019",
-    "question": "An online course offers a 20% discount after RM500 spent. If a user enrolls in 6 modules worth RM120 each, how much discount do they receive?",
+    "question": "A student buys 5 textbooks priced at RM60 each. A bookstore offers a 10% discount on the total and charges RM15 for delivery. What is the final amount paid?",
     "options": {
-      "A": "RM24",
-      "B": "RM48",
-      "C": "RM72",
-      "D": "RM96"
+      "A": "RM285",
+      "B": "RM290",
+      "C": "RM295",
+      "D": "RM300"
     },
-    "answer": "C",
-    "explanation": "Total = 6\u00d7120 = 720 > 500 \u2192 discount = 20% of 720 = RM144."
+    "answer": "A",
+    "explanation": "Total = 5×60 = 300; Discount = 10% = 30; Net = 270 + 15 = RM285"
   },
   {
     "id": "Education_Numerical_Hard_Q020",
-    "question": "A class of 40 students takes a quiz with a mean score of 65. If the top 5 students score 90 each, what is the mean of the remaining 35 students?",
+    "question": "A teacher has a class of 50 students. The top 10 students score an average of 92. The rest average 68. What is the overall class average?",
     "options": {
-      "A": "60",
-      "B": "62",
-      "C": "63",
-      "D": "64"
+      "A": "72.0",
+      "B": "72.8",
+      "C": "76.0",
+      "D": "77.2"
     },
-    "answer": "A",
-    "explanation": "Total score = 40\u00d765 = 2,600. Top 5 = 5\u00d790 = 450 \u2192 Rest = 2,150 \u00f7 35 = 61.43 \u2192 closest = 60."
+    "answer": "B",
+    "explanation": "Total = (10×92)+(40×68) = 920 + 2,720 = 3,640 → Average = 3,640 ÷ 50 = 72.8"
   }
 ]

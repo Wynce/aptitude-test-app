@@ -8,8 +8,8 @@
         "C": "5",
         "D": "None"
       },
-      "answer": "C",
-      "explanation": "The least common multiple of 4, 5, and 6 is 60. So, every 60th student likes all three. 60 \u00f7 60 = 1 student per full cycle. Since 60 students surveyed: 1 student prefers all three."
+      "answer": "A",
+      "explanation": "The least common multiple of 4, 5, and 6 is 60. LCM of 4, 5, 6 is 60 → 60 ÷ 60 = 1 student. So, every 60th student likes all three. 60 \u00f7 60 = 1 student per full cycle. Since 60 students surveyed: 1 student prefers all three."
     },
     {
       "id": "Education_Logical_Medium_Q002",
@@ -44,7 +44,7 @@
         "C": "23",
         "D": "21"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "Each row has 5 students. First student in 4th row = 16. So, 16 + 2 = 18th student in that row. Actually, 3rd column = 16 + 2 = 18 (correct is A)."
     },
     {
@@ -56,7 +56,7 @@
         "C": "15",
         "D": "16"
       },
-      "answer": "C",
+      "answer": "D",
       "explanation": "4 boxes \u00d7 12 = 48 markers. 48 \u00f7 3 = 16 days."
     },
     {
@@ -80,7 +80,7 @@
         "C": "21",
         "D": "18"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "7 groups \u00d7 2 reports = 14 reports total."
     },
     {
@@ -92,7 +92,7 @@
         "C": "90",
         "D": "18"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "5 \u00d7 6 \u00d7 4 = 120 possible elective combinations."
     },
     {
