@@ -1,4 +1,4 @@
-// StartScreen.js - Updated with separate Admin Dashboard button
+// StartScreen.js - Clean implementation with React 18 compatibility
 
 import React, { useState, useEffect, useRef } from 'react';
 import { supabase } from '../supabaseClient';
@@ -21,7 +21,10 @@ const StartScreen = ({ onStart, user, setCurrentScreen }) => {
     lastName: '',
     email: ''
   });
+  
+  // Create refs for dropdown and settings button
   const dropdownRef = useRef(null);
+  const settingsButtonRef = useRef(null);
 
   // Fetch user profile and role
   useEffect(() => {
@@ -90,18 +93,27 @@ const StartScreen = ({ onStart, user, setCurrentScreen }) => {
     fetchUserData();
   }, [user]);
 
-  // Close dropdown when clicking outside
+  // Improved click outside handler for React 18
   useEffect(() => {
     const handleClickOutside = (event) => {
-      if (dropdownRef.current && !dropdownRef.current.contains(event.target)) {
+      // Only process if dropdown is shown
+      if (!showDropdown) return;
+      
+      // Check if click is outside both dropdown and settings button
+      const clickedOutsideDropdown = dropdownRef.current && !dropdownRef.current.contains(event.target);
+      const clickedOutsideButton = settingsButtonRef.current && !settingsButtonRef.current.contains(event.target);
+      
+      if (clickedOutsideDropdown && clickedOutsideButton) {
+        console.log("Click outside detected, closing dropdown");
         setShowDropdown(false);
       }
     };
 
     document.addEventListener('mousedown', handleClickOutside);
     return () => document.removeEventListener('mousedown', handleClickOutside);
-  }, []);
+  }, [showDropdown]); // Re-run effect when showDropdown changes
 
+  // Form and selection handlers
   const handleIndustryChange = (event) => {
     const { value, checked } = event.target;
     if (checked) {
@@ -130,13 +142,11 @@ const StartScreen = ({ onStart, user, setCurrentScreen }) => {
     });
   };
 
-  const handleLogout = async () => {
-    try {
-      await supabase.auth.signOut();
-      setCurrentScreen('login');
-    } catch (error) {
-      console.error('Error logging out:', error);
-    }
+  // Action handlers with improved error handling for React 18
+  const handleProfileClick = () => {
+    console.log("🔧 [DEBUG] Edit Profile clicked");
+    setShowProfileModal(true);
+    setShowDropdown(false);
   };
 
   const handleChangePassword = async () => {
@@ -144,11 +154,15 @@ const StartScreen = ({ onStart, user, setCurrentScreen }) => {
       // Use your app's URL for the redirect
       const redirectUrl = `${window.location.origin}/reset-password`;
       
+      console.log("🔑 [DEBUG] Change Password clicked");
+      console.log("Redirect URL:", redirectUrl);
+      
       const { error } = await supabase.auth.resetPasswordForEmail(user.email, {
         redirectTo: redirectUrl
       });
       
       if (error) {
+        console.error("Password reset error:", error);
         alert('Error sending password reset email: ' + error.message);
       } else {
         alert('🔑 Password reset email sent! Check your inbox and click the link to reset your password.');
@@ -158,6 +172,36 @@ const StartScreen = ({ onStart, user, setCurrentScreen }) => {
       console.error('Error requesting password reset:', err);
       alert('Error sending password reset email.');
     }
+  };
+
+  const handleLogout = async () => {
+    try {
+      console.log("🚪 [DEBUG] Logout clicked");
+      
+      const { error } = await supabase.auth.signOut();
+      
+      if (error) {
+        console.error("Logout error:", error);
+        alert('Error signing out: ' + error.message);
+        return;
+      }
+      
+      setCurrentScreen('login');
+    } catch (error) {
+      console.error('Error logging out:', error);
+      alert('Error during logout. Please try again.');
+    }
+  };
+
+  const handleAdminDashboardClick = () => {
+    console.log("🔧 [DEBUG] Admin Dashboard button clicked");
+    console.log("🔧 [DEBUG] User role:", userRole);
+    
+    // Use setTimeout to ensure state updates properly in React 18
+    setTimeout(() => {
+      setCurrentScreen('admin');
+      console.log("🔐 [DEBUG] Navigation to admin dashboard executed");
+    }, 0);
   };
 
   const handleProfileSave = async () => {
@@ -216,33 +260,49 @@ const StartScreen = ({ onStart, user, setCurrentScreen }) => {
     }
   };
 
-  // Function to handle direct navigation to admin dashboard
-  const handleAdminDashboardClick = () => {
-    console.log("🔧 [DEBUG] Admin Dashboard button clicked directly");
-    console.log("🔧 [DEBUG] User role:", userRole);
-    
-    // Direct navigation without any async checks
-    console.log("🔐 [DEBUG] Direct navigation to admin dashboard");
-    setCurrentScreen('admin');
-  };
-
   return (
     <div className="start-screen min-h-screen bg-gray-50 flex items-center justify-center px-4">
       <div className="w-full max-w-xl bg-white rounded-2xl shadow-lg p-6 sm:p-8 relative">
         {/* Settings Dropdown - Positioned absolutely */}
-        <div className="absolute top-4 right-4" ref={dropdownRef}>
+        <div className="absolute top-4 right-4">
+          {/* Settings Button */}
           <button
-            onClick={() => setShowDropdown(!showDropdown)}
+            ref={settingsButtonRef}
+            onClick={(e) => {
+              e.stopPropagation(); // Prevent event bubbling
+              console.log('Settings button clicked');
+              setShowDropdown(prevState => !prevState); // Use functional update for React 18
+            }}
             className="flex items-center justify-center w-10 h-10 bg-gray-100 hover:bg-gray-200 rounded-lg transition-colors"
           >
             <svg className="w-5 h-5 text-gray-600" fill="currentColor" viewBox="0 0 20 20">
               <path fillRule="evenodd" d="M11.49 3.17c-.38-1.56-2.6-1.56-2.98 0a1.532 1.532 0 01-2.286.948c-1.372-.836-2.942.734-2.106 2.106.54.886.061 2.042-.947 2.287-1.561.379-1.561 2.6 0 2.978a1.532 1.532 0 01.947 2.287c-.836 1.372.734 2.942 2.106 2.106a1.532 1.532 0 012.287.947c.379 1.561 2.6 1.561 2.978 0a1.533 1.533 0 012.287-.947c1.372.836 2.942-.734 2.106-2.106a1.533 1.533 0 01.947-2.287c1.561-.379 1.561-2.6 0-2.978a1.532 1.532 0 01-.947-2.287c.836-1.372-.734-2.942-2.106-2.106a1.532 1.532 0 01-2.287-.947zM10 13a3 3 0 100-6 3 3 0 000 6z" clipRule="evenodd"/>
             </svg>
           </button>
+          
+          {/* Admin Button - Only shown to admins, positioned below settings */}
+          {['admin', 'super_admin'].includes(userRole) && (
+            <button
+              onClick={(e) => {
+                e.stopPropagation(); // Prevent event bubbling
+                handleAdminDashboardClick();
+              }}
+              className="absolute top-14 right-0 flex items-center justify-center w-10 h-10 bg-purple-100 hover:bg-purple-200 rounded-lg transition-colors"
+              title="Admin Dashboard"
+            >
+              <svg className="w-5 h-5 text-purple-600" fill="currentColor" viewBox="0 0 20 20">
+                <path fillRule="evenodd" d="M2.166 4.999A11.954 11.954 0 0010 1.944 11.954 11.954 0 0017.834 5c.11.65.166 1.32.166 2.001 0 5.225-3.34 9.67-8 11.317C5.34 16.67 2 12.225 2 7c0-.682.057-1.35.166-2.001zm11.541 3.708a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd"/>
+              </svg>
+            </button>
+          )}
 
           {/* Dropdown Menu */}
           {showDropdown && (
-            <div className="absolute right-0 mt-2 w-64 bg-white rounded-lg shadow-lg border border-gray-200 z-50">
+            <div 
+              ref={dropdownRef} 
+              className="absolute right-0 mt-2 w-64 bg-white rounded-lg shadow-lg border border-gray-200 z-50"
+              onClick={(e) => e.stopPropagation()} // Prevent clicks inside dropdown from closing it
+            >
               {/* User Info Header */}
               <div className="px-4 py-3 border-b border-gray-200">
                 <div className="flex items-center space-x-3">
@@ -263,10 +323,9 @@ const StartScreen = ({ onStart, user, setCurrentScreen }) => {
               <div className="py-2">
                 {/* Profile */}
                 <button
-                  onClick={() => {
-                    console.log("🔧 [DEBUG] Edit Profile clicked");
-                    setShowProfileModal(true);
-                    setShowDropdown(false);
+                  onClick={(e) => {
+                    e.stopPropagation(); // Prevent event bubbling
+                    handleProfileClick();
                   }}
                   className="w-full text-left px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 flex items-center space-x-2"
                 >
@@ -278,10 +337,9 @@ const StartScreen = ({ onStart, user, setCurrentScreen }) => {
 
                 {/* Change Password */}
                 <button
-                  onClick={() => {
-                    console.log("🔑 [DEBUG] Change Password clicked");
+                  onClick={(e) => {
+                    e.stopPropagation(); // Prevent event bubbling
                     handleChangePassword();
-                    setShowDropdown(false);
                   }}
                   className="w-full text-left px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 flex items-center space-x-2"
                 >
@@ -294,10 +352,9 @@ const StartScreen = ({ onStart, user, setCurrentScreen }) => {
                 {/* Logout */}
                 <div className="border-t border-gray-200 my-2"></div>
                 <button
-                  onClick={() => {
-                    console.log("🚪 [DEBUG] Logout clicked");
+                  onClick={(e) => {
+                    e.stopPropagation(); // Prevent event bubbling
                     handleLogout();
-                    setShowDropdown(false);
                   }}
                   className="w-full text-left px-4 py-2 text-sm text-red-700 hover:bg-red-50 flex items-center space-x-2"
                 >
@@ -310,46 +367,6 @@ const StartScreen = ({ onStart, user, setCurrentScreen }) => {
             </div>
           )}
         </div>
-
-        
-<div className="absolute top-4 right-4" ref={dropdownRef}>
-  <button
-    onClick={() => setShowDropdown(!showDropdown)}
-    className="flex items-center justify-center w-10 h-10 bg-gray-100 hover:bg-gray-200 rounded-lg transition-colors"
-  >
-    <svg className="w-5 h-5 text-gray-600" fill="currentColor" viewBox="0 0 20 20">
-      <path fillRule="evenodd" d="M11.49 3.17c-.38-1.56-2.6-1.56-2.98 0a1.532 1.532 0 01-2.286.948c-1.372-.836-2.942.734-2.106 2.106.54.886.061 2.042-.947 2.287-1.561.379-1.561 2.6 0 2.978a1.532 1.532 0 01.947 2.287c-.836 1.372.734 2.942 2.106 2.106a1.532 1.532 0 012.287.947c.379 1.561 2.6 1.561 2.978 0a1.533 1.533 0 012.287-.947c1.372.836 2.942-.734 2.106-2.106a1.533 1.533 0 01.947-2.287c1.561-.379 1.561-2.6 0-2.978a1.532 1.532 0 01-.947-2.287c.836-1.372-.734-2.942-2.106-2.106a1.532 1.532 0 01-2.287-.947zM10 13a3 3 0 100-6 3 3 0 000 6z" clipRule="evenodd"/>
-    </svg>
-  </button>
-  
-  {/* Admin Button - Only shown to admins, positioned below settings */}
-  {['admin', 'super_admin'].includes(userRole) && (
-    <button
-      onClick={() => {
-        console.log("🔧 [DEBUG] Admin button clicked");
-        // Use setTimeout to ensure state updates properly
-        setTimeout(() => {
-          setCurrentScreen('admin');
-          console.log("🔐 [DEBUG] setCurrentScreen('admin') called with setTimeout");
-        }, 0);
-      }}
-      className="absolute top-14 right-0 flex items-center justify-center w-10 h-10 bg-purple-100 hover:bg-purple-200 rounded-lg transition-colors"
-      title="Admin Dashboard"
-    >
-      <svg className="w-5 h-5 text-purple-600" fill="currentColor" viewBox="0 0 20 20">
-        <path fillRule="evenodd" d="M2.166 4.999A11.954 11.954 0 0010 1.944 11.954 11.954 0 0017.834 5c.11.65.166 1.32.166 2.001 0 5.225-3.34 9.67-8 11.317C5.34 16.67 2 12.225 2 7c0-.682.057-1.35.166-2.001zm11.541 3.708a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd"/>
-      </svg>
-    </button>
-  )}
-
-  {/* Dropdown Menu */}
-  {showDropdown && (
-    <div className="absolute right-0 mt-2 w-64 bg-white rounded-lg shadow-lg border border-gray-200 z-50">
-      {/* Rest of your dropdown code */}
-    </div>
-  )}
-</div>
-
 
         {/* Logo - Centered and unaffected */}
         <div className="flex justify-center mb-4">
@@ -442,8 +459,14 @@ const StartScreen = ({ onStart, user, setCurrentScreen }) => {
 
         {/* Profile Modal */}
         {showProfileModal && (
-          <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
-            <div className="bg-white rounded-lg p-6 w-full max-w-md mx-4">
+          <div 
+            className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50"
+            onClick={(e) => e.stopPropagation()} // Prevent clicks from propagating
+          >
+            <div 
+              className="bg-white rounded-lg p-6 w-full max-w-md mx-4"
+              onClick={(e) => e.stopPropagation()} // Prevent clicks from propagating
+            >
               <h3 className="text-lg font-bold mb-4">Edit Profile</h3>
               <div className="space-y-4">
                 <div>
