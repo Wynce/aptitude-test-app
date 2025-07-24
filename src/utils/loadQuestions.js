@@ -1,5 +1,5 @@
 // ==============================
-// 📦 loadQuestions.js - Final Fixed Version (Safe Industry Filtering)
+// 📦 loadQuestions.js - Fixed Version with loadAll support
 // ==============================
 
 import educationGeneralEasy from '../questionBank/Education/General/general-easy-QB.json';
@@ -58,9 +58,21 @@ const sourcesMap = {
 };
 
 /**
- * Filters and returns up to 10 questions based on selection
+ * Filters and returns questions based on selection
+ * @param {Object} params - Parameters object
+ * @param {Array} params.selectedIndustries - Array of selected industries
+ * @param {string} params.selectedCategory - Selected category
+ * @param {string} params.selectedDifficulty - Selected difficulty
+ * @param {boolean} params.loadAll - If true, returns all matching questions instead of just 10
+ * @param {Array} params.specificIds - If provided, returns only questions with these IDs
  */
-function loadQuestions({ selectedIndustries, selectedCategory, selectedDifficulty }) {
+function loadQuestions({ 
+  selectedIndustries, 
+  selectedCategory, 
+  selectedDifficulty, 
+  loadAll = false,
+  specificIds = null 
+}) {
   const allMatchedQuestions = [];
 
   const normalizedCategory = normalizeCategory(selectedCategory);
@@ -93,6 +105,20 @@ function loadQuestions({ selectedIndustries, selectedCategory, selectedDifficult
 
   console.log("📦 Total matched questions:", allMatchedQuestions.length);
 
+  // ✅ If specific IDs are requested, filter for those
+  if (specificIds && Array.isArray(specificIds)) {
+    const specificQuestions = allMatchedQuestions.filter(q => specificIds.includes(q.id));
+    console.log(`🎯 Found ${specificQuestions.length} out of ${specificIds.length} specific questions`);
+    return specificQuestions;
+  }
+
+  // ✅ If loadAll is true, return all questions
+  if (loadAll) {
+    console.log("🧠 Returning all questions:", allMatchedQuestions.length);
+    return allMatchedQuestions;
+  }
+
+  // ✅ Default behavior: shuffle and return 10
   const shuffled = allMatchedQuestions.sort(() => 0.5 - Math.random());
   const selected = shuffled.slice(0, 10);
 
