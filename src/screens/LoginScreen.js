@@ -29,14 +29,6 @@ function LoginScreen({ setUser, setCurrentScreen, resetTestState }) {
   
     setLoading(false);
   };
-  
-
-  const handleGuest = () => {
-    resetTestState(); // 🧼 clear state for guest session
-    setUser(null);
-    setCurrentScreen('start');
-  };
-  
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen px-4 bg-gray-50">
@@ -87,13 +79,7 @@ function LoginScreen({ setUser, setCurrentScreen, resetTestState }) {
             onClick={() => setCurrentScreen('signup')}
             className="text-sm text-blue-600 underline cursor-pointer"
           >
-            Don’t have an account? Sign up
-          </p>
-          <p
-            onClick={handleGuest}
-            className="text-sm text-gray-600 underline cursor-pointer"
-          >
-            Continue as Guest
+            Don't have an account? Sign up
           </p>
         </div>
       </div>
